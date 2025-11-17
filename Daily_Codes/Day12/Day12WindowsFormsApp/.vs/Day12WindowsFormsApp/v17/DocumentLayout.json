@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day12\\Day12WindowsFormsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C310228-E0F7-4874-92DA-DEB436C35D8F}|Day12WindowsFormsApp\\Day12WindowsFormsApp.csproj|c:\\users\\waseeft\\desktop\\dotnet_training\\c#\\day12\\day12windowsformsapp\\day12windowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C310228-E0F7-4874-92DA-DEB436C35D8F}|Day12WindowsFormsApp\\Day12WindowsFormsApp.csproj|solutionrelative:day12windowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C310228-E0F7-4874-92DA-DEB436C35D8F}|Day12WindowsFormsApp\\Day12WindowsFormsApp.csproj|c:\\users\\waseeft\\desktop\\dotnet_training\\c#\\day12\\day12windowsformsapp\\day12windowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C310228-E0F7-4874-92DA-DEB436C35D8F}|Day12WindowsFormsApp\\Day12WindowsFormsApp.csproj|solutionrelative:day12windowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C310228-E0F7-4874-92DA-DEB436C35D8F}|Day12WindowsFormsApp\\Day12WindowsFormsApp.csproj|c:\\users\\waseeft\\desktop\\dotnet_training\\c#\\day12\\day12windowsformsapp\\day12windowsformsapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C310228-E0F7-4874-92DA-DEB436C35D8F}|Day12WindowsFormsApp\\Day12WindowsFormsApp.csproj|solutionrelative:day12windowsformsapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C310228-E0F7-4874-92DA-DEB436C35D8F}|Day12WindowsFormsApp\\Day12WindowsFormsApp.csproj|c:\\users\\waseeft\\desktop\\dotnet_training\\c#\\day12\\day12windowsformsapp\\day12windowsformsapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C310228-E0F7-4874-92DA-DEB436C35D8F}|Day12WindowsFormsApp\\Day12WindowsFormsApp.csproj|solutionrelative:day12windowsformsapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C310228-E0F7-4874-92DA-DEB436C35D8F}|Day12WindowsFormsApp\\Day12WindowsFormsApp.csproj|c:\\users\\waseeft\\desktop\\dotnet_training\\c#\\day12\\day12windowsformsapp\\day12windowsformsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C310228-E0F7-4874-92DA-DEB436C35D8F}|Day12WindowsFormsApp\\Day12WindowsFormsApp.csproj|solutionrelative:day12windowsformsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day12\\Day12WindowsFormsApp\\Day12WindowsFormsApp\\Program.cs",
+              "RelativeDocumentMoniker": "Day12WindowsFormsApp\\Program.cs",
+              "ToolTip": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day12\\Day12WindowsFormsApp\\Day12WindowsFormsApp\\Program.cs",
+              "RelativeToolTip": "Day12WindowsFormsApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T05:53:11.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day12\\Day12WindowsFormsApp\\Day12WindowsFormsApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "Day12WindowsFormsApp\\MainForm.cs",
+              "ToolTip": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day12\\Day12WindowsFormsApp\\Day12WindowsFormsApp\\MainForm.cs",
+              "RelativeToolTip": "Day12WindowsFormsApp\\MainForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T05:22:52.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day12\\Day12WindowsFormsApp\\Day12WindowsFormsApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "Day12WindowsFormsApp\\MainForm.cs",
+              "ToolTip": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day12\\Day12WindowsFormsApp\\Day12WindowsFormsApp\\MainForm.cs [Design]",
+              "RelativeToolTip": "Day12WindowsFormsApp\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T05:22:08.579Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day12\\Day12WindowsFormsApp\\Day12WindowsFormsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "Day12WindowsFormsApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day12\\Day12WindowsFormsApp\\Day12WindowsFormsApp\\Form1.cs",
+              "RelativeToolTip": "Day12WindowsFormsApp\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T04:30:33.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day12\\Day12WindowsFormsApp\\Day12WindowsFormsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "Day12WindowsFormsApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day12\\Day12WindowsFormsApp\\Day12WindowsFormsApp\\Form1.cs [Design]",
+              "RelativeToolTip": "Day12WindowsFormsApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T04:28:21.653Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

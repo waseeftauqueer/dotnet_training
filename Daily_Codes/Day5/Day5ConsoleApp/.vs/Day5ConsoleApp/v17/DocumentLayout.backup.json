@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day5\\Day5ConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{069AC7E7-481C-4C9C-A8F1-C62DA1345EC2}|Day5ConsoleApp\\Day5ConsoleApp.csproj|c:\\users\\waseeft\\desktop\\dotnet_training\\c#\\day5\\day5consoleapp\\day5consoleapp\\gettersetterdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069AC7E7-481C-4C9C-A8F1-C62DA1345EC2}|Day5ConsoleApp\\Day5ConsoleApp.csproj|solutionrelative:day5consoleapp\\gettersetterdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069AC7E7-481C-4C9C-A8F1-C62DA1345EC2}|Day5ConsoleApp\\Day5ConsoleApp.csproj|c:\\users\\waseeft\\desktop\\dotnet_training\\c#\\day5\\day5consoleapp\\day5consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069AC7E7-481C-4C9C-A8F1-C62DA1345EC2}|Day5ConsoleApp\\Day5ConsoleApp.csproj|solutionrelative:day5consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetterSetterDemo.cs",
+              "DocumentMoniker": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day5\\Day5ConsoleApp\\Day5ConsoleApp\\GetterSetterDemo.cs",
+              "RelativeDocumentMoniker": "Day5ConsoleApp\\GetterSetterDemo.cs",
+              "ToolTip": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day5\\Day5ConsoleApp\\Day5ConsoleApp\\GetterSetterDemo.cs",
+              "RelativeToolTip": "Day5ConsoleApp\\GetterSetterDemo.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAB8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T11:52:24.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day5\\Day5ConsoleApp\\Day5ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "Day5ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day5\\Day5ConsoleApp\\Day5ConsoleApp\\Program.cs",
+              "RelativeToolTip": "Day5ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T06:47:54.348Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

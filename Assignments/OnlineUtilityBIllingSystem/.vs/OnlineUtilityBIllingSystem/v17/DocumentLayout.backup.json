@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day5\\OnlineUtilityBIllingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02D644E3-69DC-4799-9527-58F1242E37AD}|OnlineUtilityBIllingSystem\\OnlineUtilityBIllingSystem.csproj|C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day5\\OnlineUtilityBIllingSystem\\onlineutilitybillingsystem\\utilitybilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D644E3-69DC-4799-9527-58F1242E37AD}|OnlineUtilityBIllingSystem\\OnlineUtilityBIllingSystem.csproj|solutionrelative:onlineutilitybillingsystem\\utilitybilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D644E3-69DC-4799-9527-58F1242E37AD}|OnlineUtilityBIllingSystem\\OnlineUtilityBIllingSystem.csproj|c:\\users\\waseeft\\desktop\\dotnet_training\\c#\\day5\\onlineutilitybillingsystem\\onlineutilitybillingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D644E3-69DC-4799-9527-58F1242E37AD}|OnlineUtilityBIllingSystem\\OnlineUtilityBIllingSystem.csproj|solutionrelative:onlineutilitybillingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D644E3-69DC-4799-9527-58F1242E37AD}|OnlineUtilityBIllingSystem\\OnlineUtilityBIllingSystem.csproj|C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day5\\OnlineUtilityBIllingSystem\\onlineutilitybillingsystem\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D644E3-69DC-4799-9527-58F1242E37AD}|OnlineUtilityBIllingSystem\\OnlineUtilityBIllingSystem.csproj|solutionrelative:onlineutilitybillingsystem\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UtilityBilling.cs",
+              "DocumentMoniker": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day5\\OnlineUtilityBIllingSystem\\OnlineUtilityBIllingSystem\\UtilityBilling.cs",
+              "RelativeDocumentMoniker": "OnlineUtilityBIllingSystem\\UtilityBilling.cs",
+              "ToolTip": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day5\\OnlineUtilityBIllingSystem\\OnlineUtilityBIllingSystem\\UtilityBilling.cs",
+              "RelativeToolTip": "OnlineUtilityBIllingSystem\\UtilityBilling.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T05:12:10.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day5\\OnlineUtilityBIllingSystem\\OnlineUtilityBIllingSystem\\Customer.cs",
+              "RelativeDocumentMoniker": "OnlineUtilityBIllingSystem\\Customer.cs",
+              "ToolTip": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day5\\OnlineUtilityBIllingSystem\\OnlineUtilityBIllingSystem\\Customer.cs",
+              "RelativeToolTip": "OnlineUtilityBIllingSystem\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T04:37:02.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day5\\OnlineUtilityBIllingSystem\\OnlineUtilityBIllingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "OnlineUtilityBIllingSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day5\\OnlineUtilityBIllingSystem\\OnlineUtilityBIllingSystem\\Program.cs",
+              "RelativeToolTip": "OnlineUtilityBIllingSystem\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T04:28:46.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

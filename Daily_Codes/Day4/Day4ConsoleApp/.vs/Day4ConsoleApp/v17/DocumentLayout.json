@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day4\\Day4ConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65F288AE-E57A-49F6-BA4D-13B03BFE1954}|Day4ConsoleApp\\Day4ConsoleApp.csproj|c:\\users\\waseeft\\desktop\\dotnet_training\\c#\\day4\\day4consoleapp\\day4consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F288AE-E57A-49F6-BA4D-13B03BFE1954}|Day4ConsoleApp\\Day4ConsoleApp.csproj|solutionrelative:day4consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F288AE-E57A-49F6-BA4D-13B03BFE1954}|Day4ConsoleApp\\Day4ConsoleApp.csproj|c:\\users\\waseeft\\desktop\\dotnet_training\\c#\\day4\\day4consoleapp\\day4consoleapp\\constructordemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F288AE-E57A-49F6-BA4D-13B03BFE1954}|Day4ConsoleApp\\Day4ConsoleApp.csproj|solutionrelative:day4consoleapp\\constructordemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F288AE-E57A-49F6-BA4D-13B03BFE1954}|Day4ConsoleApp\\Day4ConsoleApp.csproj|c:\\users\\waseeft\\desktop\\dotnet_training\\c#\\day4\\day4consoleapp\\day4consoleapp\\staticdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F288AE-E57A-49F6-BA4D-13B03BFE1954}|Day4ConsoleApp\\Day4ConsoleApp.csproj|solutionrelative:day4consoleapp\\staticdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F288AE-E57A-49F6-BA4D-13B03BFE1954}|Day4ConsoleApp\\Day4ConsoleApp.csproj|c:\\users\\waseeft\\desktop\\dotnet_training\\c#\\day4\\day4consoleapp\\day4consoleapp\\paramsdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F288AE-E57A-49F6-BA4D-13B03BFE1954}|Day4ConsoleApp\\Day4ConsoleApp.csproj|solutionrelative:day4consoleapp\\paramsdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F288AE-E57A-49F6-BA4D-13B03BFE1954}|Day4ConsoleApp\\Day4ConsoleApp.csproj|c:\\users\\waseeft\\desktop\\dotnet_training\\c#\\day4\\day4consoleapp\\day4consoleapp\\calltypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F288AE-E57A-49F6-BA4D-13B03BFE1954}|Day4ConsoleApp\\Day4ConsoleApp.csproj|solutionrelative:day4consoleapp\\calltypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F288AE-E57A-49F6-BA4D-13B03BFE1954}|Day4ConsoleApp\\Day4ConsoleApp.csproj|c:\\users\\waseeft\\desktop\\dotnet_training\\c#\\day4\\day4consoleapp\\day4consoleapp\\funwithretargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F288AE-E57A-49F6-BA4D-13B03BFE1954}|Day4ConsoleApp\\Day4ConsoleApp.csproj|solutionrelative:day4consoleapp\\funwithretargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConstructorDemo.cs",
+              "DocumentMoniker": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day4\\Day4ConsoleApp\\Day4ConsoleApp\\ConstructorDemo.cs",
+              "RelativeDocumentMoniker": "Day4ConsoleApp\\ConstructorDemo.cs",
+              "ToolTip": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day4\\Day4ConsoleApp\\Day4ConsoleApp\\ConstructorDemo.cs",
+              "RelativeToolTip": "Day4ConsoleApp\\ConstructorDemo.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAvwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T09:21:20.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StaticDemo.cs",
+              "DocumentMoniker": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day4\\Day4ConsoleApp\\Day4ConsoleApp\\StaticDemo.cs",
+              "RelativeDocumentMoniker": "Day4ConsoleApp\\StaticDemo.cs",
+              "ToolTip": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day4\\Day4ConsoleApp\\Day4ConsoleApp\\StaticDemo.cs",
+              "RelativeToolTip": "Day4ConsoleApp\\StaticDemo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T07:35:16.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ParamsDemo.cs",
+              "DocumentMoniker": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day4\\Day4ConsoleApp\\Day4ConsoleApp\\ParamsDemo.cs",
+              "RelativeDocumentMoniker": "Day4ConsoleApp\\ParamsDemo.cs",
+              "ToolTip": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day4\\Day4ConsoleApp\\Day4ConsoleApp\\ParamsDemo.cs",
+              "RelativeToolTip": "Day4ConsoleApp\\ParamsDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T07:13:05.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CallTypes.cs",
+              "DocumentMoniker": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day4\\Day4ConsoleApp\\Day4ConsoleApp\\CallTypes.cs",
+              "RelativeDocumentMoniker": "Day4ConsoleApp\\CallTypes.cs",
+              "ToolTip": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day4\\Day4ConsoleApp\\Day4ConsoleApp\\CallTypes.cs",
+              "RelativeToolTip": "Day4ConsoleApp\\CallTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T05:51:31.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FunWithRetArgs.cs",
+              "DocumentMoniker": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day4\\Day4ConsoleApp\\Day4ConsoleApp\\FunWithRetArgs.cs",
+              "RelativeDocumentMoniker": "Day4ConsoleApp\\FunWithRetArgs.cs",
+              "ToolTip": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day4\\Day4ConsoleApp\\Day4ConsoleApp\\FunWithRetArgs.cs",
+              "RelativeToolTip": "Day4ConsoleApp\\FunWithRetArgs.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T05:00:59.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day4\\Day4ConsoleApp\\Day4ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "Day4ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day4\\Day4ConsoleApp\\Day4ConsoleApp\\Program.cs",
+              "RelativeToolTip": "Day4ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAADwvz8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T04:34:38.464Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
