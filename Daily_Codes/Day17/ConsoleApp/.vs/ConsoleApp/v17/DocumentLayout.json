@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dotnet_training\\Daily_Codes\\Day17\\ConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A5569C-3EFB-4719-A76B-2D61873E0812}|ConsoleApp\\ConsoleApp.csproj|c:\\dotnet_training\\daily_codes\\day17\\consoleapp\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A5569C-3EFB-4719-A76B-2D61873E0812}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A5569C-3EFB-4719-A76B-2D61873E0812}|ConsoleApp\\ConsoleApp.csproj|C:\\dotnet_training\\Daily_Codes\\Day17\\ConsoleApp\\consoleapp\\getnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A5569C-3EFB-4719-A76B-2D61873E0812}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\getnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A5569C-3EFB-4719-A76B-2D61873E0812}|ConsoleApp\\ConsoleApp.csproj|C:\\dotnet_training\\Daily_Codes\\Day17\\ConsoleApp\\consoleapp\\emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A5569C-3EFB-4719-A76B-2D61873E0812}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A5569C-3EFB-4719-A76B-2D61873E0812}|ConsoleApp\\ConsoleApp.csproj|C:\\dotnet_training\\Daily_Codes\\Day17\\ConsoleApp\\consoleapp\\inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A5569C-3EFB-4719-A76B-2D61873E0812}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetNotification.cs",
+              "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\Day17\\ConsoleApp\\ConsoleApp\\GetNotification.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\GetNotification.cs",
+              "ToolTip": "C:\\dotnet_training\\Daily_Codes\\Day17\\ConsoleApp\\ConsoleApp\\GetNotification.cs",
+              "RelativeToolTip": "ConsoleApp\\GetNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T11:38:33.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailNotification.cs",
+              "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\Day17\\ConsoleApp\\ConsoleApp\\EmailNotification.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\EmailNotification.cs",
+              "ToolTip": "C:\\dotnet_training\\Daily_Codes\\Day17\\ConsoleApp\\ConsoleApp\\EmailNotification.cs",
+              "RelativeToolTip": "ConsoleApp\\EmailNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T11:37:37.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "INotification.cs",
+              "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\Day17\\ConsoleApp\\ConsoleApp\\INotification.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\INotification.cs",
+              "ToolTip": "C:\\dotnet_training\\Daily_Codes\\Day17\\ConsoleApp\\ConsoleApp\\INotification.cs",
+              "RelativeToolTip": "ConsoleApp\\INotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T11:37:02.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\Day17\\ConsoleApp\\ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\dotnet_training\\Daily_Codes\\Day17\\ConsoleApp\\ConsoleApp\\Program.cs",
+              "RelativeToolTip": "ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T11:36:28.325Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

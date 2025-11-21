@@ -4,13 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Day13ConsoleApp1
+namespace ConsoleApp
 {
-    internal class Program
+    public interface INotification
     {
-        static void Main(string[] args)
-        {
-
-        }
+        void Send(string message);
     }
+
 }

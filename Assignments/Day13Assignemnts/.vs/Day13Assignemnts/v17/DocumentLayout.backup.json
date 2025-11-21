@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day13\\Day13Assignemnts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2DFB3E-3C7A-46AA-87C2-A698ABE09860}|Day13Assignemnts\\Day13Assignemnts.csproj|c:\\users\\waseeft\\desktop\\dotnet_training\\c#\\day13\\day13assignemnts\\day13assignemnts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2DFB3E-3C7A-46AA-87C2-A698ABE09860}|Day13Assignemnts\\Day13Assignemnts.csproj|solutionrelative:day13assignemnts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2DFB3E-3C7A-46AA-87C2-A698ABE09860}|Day13Assignemnts\\Day13Assignemnts.csproj|c:\\users\\waseeft\\desktop\\dotnet_training\\c#\\day13\\day13assignemnts\\day13assignemnts\\extensionforsquares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2DFB3E-3C7A-46AA-87C2-A698ABE09860}|Day13Assignemnts\\Day13Assignemnts.csproj|solutionrelative:day13assignemnts\\extensionforsquares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2DFB3E-3C7A-46AA-87C2-A698ABE09860}|Day13Assignemnts\\Day13Assignemnts.csproj|c:\\users\\waseeft\\desktop\\dotnet_training\\c#\\day13\\day13assignemnts\\day13assignemnts\\extensionforstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2DFB3E-3C7A-46AA-87C2-A698ABE09860}|Day13Assignemnts\\Day13Assignemnts.csproj|solutionrelative:day13assignemnts\\extensionforstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2DFB3E-3C7A-46AA-87C2-A698ABE09860}|Day13Assignemnts\\Day13Assignemnts.csproj|c:\\users\\waseeft\\desktop\\dotnet_training\\c#\\day13\\day13assignemnts\\day13assignemnts\\student.methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2DFB3E-3C7A-46AA-87C2-A698ABE09860}|Day13Assignemnts\\Day13Assignemnts.csproj|solutionrelative:day13assignemnts\\student.methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2DFB3E-3C7A-46AA-87C2-A698ABE09860}|Day13Assignemnts\\Day13Assignemnts.csproj|c:\\users\\waseeft\\desktop\\dotnet_training\\c#\\day13\\day13assignemnts\\day13assignemnts\\student.properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2DFB3E-3C7A-46AA-87C2-A698ABE09860}|Day13Assignemnts\\Day13Assignemnts.csproj|solutionrelative:day13assignemnts\\student.properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExtensionForSquares.cs",
+              "DocumentMoniker": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day13\\Day13Assignemnts\\Day13Assignemnts\\ExtensionForSquares.cs",
+              "RelativeDocumentMoniker": "Day13Assignemnts\\ExtensionForSquares.cs",
+              "ToolTip": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day13\\Day13Assignemnts\\Day13Assignemnts\\ExtensionForSquares.cs",
+              "RelativeToolTip": "Day13Assignemnts\\ExtensionForSquares.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:18:49.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExtensionForString.cs",
+              "DocumentMoniker": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day13\\Day13Assignemnts\\Day13Assignemnts\\ExtensionForString.cs",
+              "RelativeDocumentMoniker": "Day13Assignemnts\\ExtensionForString.cs",
+              "ToolTip": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day13\\Day13Assignemnts\\Day13Assignemnts\\ExtensionForString.cs",
+              "RelativeToolTip": "Day13Assignemnts\\ExtensionForString.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:10:10.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.Methods.cs",
+              "DocumentMoniker": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day13\\Day13Assignemnts\\Day13Assignemnts\\Student.Methods.cs",
+              "RelativeDocumentMoniker": "Day13Assignemnts\\Student.Methods.cs",
+              "ToolTip": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day13\\Day13Assignemnts\\Day13Assignemnts\\Student.Methods.cs",
+              "RelativeToolTip": "Day13Assignemnts\\Student.Methods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:07:35.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.Properties.cs",
+              "DocumentMoniker": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day13\\Day13Assignemnts\\Day13Assignemnts\\Student.Properties.cs",
+              "RelativeDocumentMoniker": "Day13Assignemnts\\Student.Properties.cs",
+              "ToolTip": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day13\\Day13Assignemnts\\Day13Assignemnts\\Student.Properties.cs",
+              "RelativeToolTip": "Day13Assignemnts\\Student.Properties.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:03:56.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day13\\Day13Assignemnts\\Day13Assignemnts\\Program.cs",
+              "RelativeDocumentMoniker": "Day13Assignemnts\\Program.cs",
+              "ToolTip": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day13\\Day13Assignemnts\\Day13Assignemnts\\Program.cs",
+              "RelativeToolTip": "Day13Assignemnts\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:01:31.35Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
