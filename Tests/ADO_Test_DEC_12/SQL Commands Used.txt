@@ -1,0 +1,55 @@
+create table Students( StudentId int primary key, 
+    FullName varchar(100) not null, 
+    Email varchar(100) unique,
+    Department varchar(50) not null, 
+    YearOfStudy int not null);
+
+insert into Students values(101, 'Waseef Tauqueer A', 'waseef@gmail.com', 'ECE', 4);
+insert into Students values(102, 'Joseph', 'joseph@gmail.com', 'CSE', 4);
+insert into Students values(103, 'Deepak', 'deepak@gmail.com', 'EEE', 4);
+insert into Students values(104, 'Febin', 'febin@gmail.com', 'ECE', 4);
+insert into Students values(105, 'Surya', 'surya@gmail.com', 'CSE', 4);
+insert into Students values(106, 'Anuj', 'anuj@gmail.com', 'ECE', 2);
+insert into Students values(107, 'Sivakarthikeyan', 'sivakarthikeyan@gmail.com', 'IT', 4);
+insert into Students values(108, 'kamal', 'kamal@gmail.com', 'CSE', 3);
+insert into Students values(109, 'Vikram', 'vikram@gmail.com', 'EEE', 3);
+insert into Students values(110, 'AJith', 'ajith@gmail.com', 'IT', 2);
+
+create table Courses (CourseId int identity(1,1) primary key,
+    CourseName varchar(100) not null,
+    Credits int not null,
+    Semester varchar(20) not null);
+
+insert into Courses (CourseName, Credits, Semester) values ('Data Structures', 4, 'First');
+insert into Courses (CourseName, Credits, Semester) values ('Operating Systems', 3, 'First');
+insert into Courses (CourseName, Credits, Semester) values ('DBMS', 3, 'Second');
+insert into Courses (CourseName, Credits, Semester) values ('Cybersecurity', 3, 'First');
+insert into Courses (CourseName, Credits, Semester) values ('DevOps', 2, 'Second');
+insert into Courses (CourseName, Credits, Semester) values ('Java Fullstack', 4, 'Second');
+
+create table Enrollments (EnrollmentId int identity(1,1) primary key,
+    StudentId int not null,
+    CourseId int not null,
+    EnrollDate datetime not null,
+    Grade varchar(5) null,
+    constraint FK_Student foreign key (StudentId) references Students(StudentId),
+    constraint FK_Course foreign key (CourseId) references Courses(CourseId));
+
+insert into Enrollments (StudentId, CourseId, EnrollDate, Grade)values (105, 1, '2025-08-01', 'A');
+insert into Enrollments (StudentId, CourseId, EnrollDate, Grade) values (106, 2, '2025-09-02', 'B');
+insert into Enrollments (StudentId, CourseId, EnrollDate, Grade) values (107, 3, '2025-08-03', 'C');
+insert into Enrollments (StudentId, CourseId, EnrollDate, Grade)values (108, 6, '2025-09-04', 'A');
+insert into Enrollments (StudentId, CourseId, EnrollDate, Grade) values (109, 4, '2025-08-05', 'B');
+insert into Enrollments (StudentId, CourseId, EnrollDate, Grade) values (110, 5, '2025-08-06', 'A');
+
+create procedure usp_GetCoursesBySemester
+@semester NVARCHAR(20)
+as
+begin
+select * from Courses where Semester = @semester
+end
+
+
+select * from Students
+select * from Courses
+select * from Enrollments
