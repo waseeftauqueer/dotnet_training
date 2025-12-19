@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Employee Table</title>
+ 
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 40%;
+        }
+        th, td {
+            background-color: rgb(255, 255, 255);
+            border: 2px solid rgb(255, 0, 0);
+            padding: 10px;
+            text-align: center;
+        }
+        img {
+            width: 100px;
+            height: 100px;
+        }
+    </style>
+ 
+    <script>
+        function toggleImage() {
+            var imgs = document.getElementsByClassName("empImg");
+ 
+            for (var i = 0; i < imgs.length; i++) {
+                if (imgs[i].style.display === "none") {
+                    imgs[i].style.display = "block";
+                } else {
+                    imgs[i].style.display = "none";
+                }
+            }
+        }
+    </script>
+</head>
+ 
+<body>
+
+ 
+
+ 
+<table>
+    <tr>
+        <th>Employeephoto</th>
+        <th>Empname</th>
+    </tr>
+ 
+    <tr>
+        <td>
+            <img src="hoodie.jpg" class="empImg">
+        </td>
+        <td>Waseef</td>
+    </tr>
+ 
+    <tr>
+        <td>
+            <img src="hoodie.jpg" class="empImg">
+        </td>
+        <td>Tauqueer</td>
+    </tr>
+</table>
+
+<br><br>
+
+<button onclick="toggleImage()">Show</button>
+
+ 
+</body>
+</html>

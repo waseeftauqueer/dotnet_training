@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<script>
+    function validate(){
+        var a = document.getElementById("i1").value;
+        var b = document.getElementById("i2").value;
+
+        if(a == "waseef" && b == "12345"){
+            window.location = "home.html";
+        }
+        else{
+            document.write("Incorrect Password");
+            alert("Incorrect Password or username");
+        }
+    }
+</script>
+<body>
+    <h1>User Validation</h1>
+    <p>Enter Username</p>
+    <input type="text" id="i1">
+    <br><br>
+    <p>Enter Password</p>
+    <input type="password" id="i2">
+    <br><br>
+    <input type="button" value="Validate" id="b1" onclick="validate()">
+</body>
+</html>

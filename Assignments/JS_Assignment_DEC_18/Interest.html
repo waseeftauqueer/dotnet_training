@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        function simpleInterest(){
+            var a = parseInt(document.getElementById("t1").value);
+            var b = parseInt(document.getElementById("t2").value);
+            var c = parseInt(document.getElementById("t3").value);
+            document.getElementById("result").innerText = (a*b*c) / 100;
+        }
+    </script>
+    <p>Enter Principal Amount</p>
+    <input type="text" id="t1">
+    <br>
+    <p>Enter Rate of Interest</p>
+    <input type="text" id="t2">
+    <br>
+    <p>Enter time period</p>
+    <input type="text" id="t3">
+    <br><br>
+    <h1 id="result">Simple Interest : </h1>
+    <input type="button" value="Find" id="b1" onclick="simpleInterest()">
+</body>
+</html>

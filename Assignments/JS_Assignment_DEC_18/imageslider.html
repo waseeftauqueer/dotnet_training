@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        #slider {
+            width: 500px;
+            height: 500px;
+            border: 2px solid black;
+        }
+    </style>
+</head>
+<body>
+ 
+ 
+<img id="slider" src="hoodie.jpg" alt="Image Slider">
+ 
+<script>
+    var images = [
+        "hoodie.jpg",
+        "2.jpg",
+        "3.png"
+    ];
+ 
+    let index = 0;
+ 
+    function changeImage() {
+        index++;
+        if(index >= images.length) {
+            index = 0;
+        }
+        document.getElementById("slider").src = images[index];
+    }
+ 
+    setInterval(changeImage, 2000);
+</script>
+ 
+</body>
+</html>

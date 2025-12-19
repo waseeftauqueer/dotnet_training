@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        function output(){
+            for(i = 1; i < 15; i++){
+                if(i%2 == 0){
+                    document.writeln(i + " Even Number")
+                    document.write("<br>")
+                } else{
+                    document.writeln(i + " Odd Number")
+                    document.write("<br>")
+                }
+            }
+        }
+    </script>
+    <input type="button" value="Find" id="b1" onclick="output()">
+</body>
+</html>
