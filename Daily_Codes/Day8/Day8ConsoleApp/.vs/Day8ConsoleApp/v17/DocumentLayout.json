@@ -3,6 +3,17 @@
   "WorkspaceRootPath": "C:\\dotnet_training\\Daily_Codes\\Day8\\Day8ConsoleApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Day8ConsoleApp||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\dotnet_training\\Daily_Codes\\Day8\\Day8ConsoleApp\\Program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:Program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA12B4D-D8A9-478C-AE02-6B3F89C71BF2}|Day8ConsoleApp\\Day8ConsoleApp.csproj|C:\\dotnet_training\\Daily_Codes\\Day8\\Day8ConsoleApp\\day8consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA12B4D-D8A9-478C-AE02-6B3F89C71BF2}|Day8ConsoleApp\\Day8ConsoleApp.csproj|solutionrelative:day8consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DFA12B4D-D8A9-478C-AE02-6B3F89C71BF2}|Day8ConsoleApp\\Day8ConsoleApp.csproj|c:\\dotnet_training\\daily_codes\\day8\\day8consoleapp\\day8consoleapp\\shippingcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFA12B4D-D8A9-478C-AE02-6B3F89C71BF2}|Day8ConsoleApp\\Day8ConsoleApp.csproj|solutionrelative:day8consoleapp\\shippingcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +24,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DFA12B4D-D8A9-478C-AE02-6B3F89C71BF2}|Day8ConsoleApp\\Day8ConsoleApp.csproj|C:\\dotnet_training\\Daily_Codes\\Day8\\Day8ConsoleApp\\day8consoleapp\\overloadingdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFA12B4D-D8A9-478C-AE02-6B3F89C71BF2}|Day8ConsoleApp\\Day8ConsoleApp.csproj|solutionrelative:day8consoleapp\\overloadingdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFA12B4D-D8A9-478C-AE02-6B3F89C71BF2}|Day8ConsoleApp\\Day8ConsoleApp.csproj|C:\\dotnet_training\\Daily_Codes\\Day8\\Day8ConsoleApp\\day8consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFA12B4D-D8A9-478C-AE02-6B3F89C71BF2}|Day8ConsoleApp\\Day8ConsoleApp.csproj|solutionrelative:day8consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DFA12B4D-D8A9-478C-AE02-6B3F89C71BF2}|Day8ConsoleApp\\Day8ConsoleApp.csproj|C:\\dotnet_training\\Daily_Codes\\Day8\\Day8ConsoleApp\\day8consoleapp\\storecheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,6 +44,9 @@
     {
       "AbsoluteMoniker": "D:0:0:{DFA12B4D-D8A9-478C-AE02-6B3F89C71BF2}|Day8ConsoleApp\\Day8ConsoleApp.csproj|C:\\dotnet_training\\Daily_Codes\\Day8\\Day8ConsoleApp\\day8consoleapp\\sealedmethoddemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFA12B4D-D8A9-478C-AE02-6B3F89C71BF2}|Day8ConsoleApp\\Day8ConsoleApp.csproj|solutionrelative:day8consoleapp\\sealedmethoddemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA12B4D-D8A9-478C-AE02-6B3F89C71BF2}|Day8ConsoleApp\\Day8ConsoleApp.csproj|c:\\dotnet_training\\daily_codes\\day8\\day8consoleapp\\day8consoleapp\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,24 +56,53 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Day8ConsoleApp",
+              "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\Day8\\Day8ConsoleApp\\Day8ConsoleApp\\Day8ConsoleApp.csproj",
+              "RelativeDocumentMoniker": "Day8ConsoleApp\\Day8ConsoleApp.csproj",
+              "ToolTip": "C:\\dotnet_training\\Daily_Codes\\Day8\\Day8ConsoleApp\\Day8ConsoleApp\\Day8ConsoleApp.csproj*",
+              "RelativeToolTip": "Day8ConsoleApp\\Day8ConsoleApp.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-29T10:03:00.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program1.cs",
+              "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\Day8\\Day8ConsoleApp\\Program1.cs",
+              "RelativeDocumentMoniker": "Program1.cs",
+              "ToolTip": "C:\\dotnet_training\\Daily_Codes\\Day8\\Day8ConsoleApp\\Program1.cs",
+              "RelativeToolTip": "Program1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T09:59:56.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ShippingCalculator.cs",
               "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\Day8\\Day8ConsoleApp\\Day8ConsoleApp\\ShippingCalculator.cs",
               "RelativeDocumentMoniker": "Day8ConsoleApp\\ShippingCalculator.cs",
               "ToolTip": "C:\\dotnet_training\\Daily_Codes\\Day8\\Day8ConsoleApp\\Day8ConsoleApp\\ShippingCalculator.cs",
               "RelativeToolTip": "Day8ConsoleApp\\ShippingCalculator.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-10T10:16:26.115Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "StoreCheckout.cs",
               "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\Day8\\Day8ConsoleApp\\Day8ConsoleApp\\StoreCheckout.cs",
               "RelativeDocumentMoniker": "Day8ConsoleApp\\StoreCheckout.cs",
@@ -71,12 +110,11 @@
               "RelativeToolTip": "Day8ConsoleApp\\StoreCheckout.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T09:54:44.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T09:54:44.926Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "InterestCalculator.cs",
               "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\Day8\\Day8ConsoleApp\\Day8ConsoleApp\\InterestCalculator.cs",
               "RelativeDocumentMoniker": "Day8ConsoleApp\\InterestCalculator.cs",
@@ -84,12 +122,11 @@
               "RelativeToolTip": "Day8ConsoleApp\\InterestCalculator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T09:30:00.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T09:30:00.965Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "SealedMethodDemo.cs",
               "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\Day8\\Day8ConsoleApp\\Day8ConsoleApp\\SealedMethodDemo.cs",
               "RelativeDocumentMoniker": "Day8ConsoleApp\\SealedMethodDemo.cs",
@@ -101,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "CashOnDelivery.cs",
               "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\Day8\\Day8ConsoleApp\\Day8ConsoleApp\\CashOnDelivery.cs",
               "RelativeDocumentMoniker": "Day8ConsoleApp\\CashOnDelivery.cs",
@@ -109,12 +146,11 @@
               "RelativeToolTip": "Day8ConsoleApp\\CashOnDelivery.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T05:35:04.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T05:35:04.089Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "CreditCardPayment.cs",
               "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\Day8\\Day8ConsoleApp\\Day8ConsoleApp\\CreditCardPayment.cs",
               "RelativeDocumentMoniker": "Day8ConsoleApp\\CreditCardPayment.cs",
@@ -122,12 +158,11 @@
               "RelativeToolTip": "Day8ConsoleApp\\CreditCardPayment.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T05:32:47.856Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T05:32:47.856Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "PaymentMethod.cs",
               "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\Day8\\Day8ConsoleApp\\Day8ConsoleApp\\PaymentMethod.cs",
               "RelativeDocumentMoniker": "Day8ConsoleApp\\PaymentMethod.cs",
@@ -135,12 +170,11 @@
               "RelativeToolTip": "Day8ConsoleApp\\PaymentMethod.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T05:29:59.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T05:29:59.027Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "OverloadingDemo.cs",
               "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\Day8\\Day8ConsoleApp\\Day8ConsoleApp\\OverloadingDemo.cs",
               "RelativeDocumentMoniker": "Day8ConsoleApp\\OverloadingDemo.cs",
@@ -148,18 +182,17 @@
               "RelativeToolTip": "Day8ConsoleApp\\OverloadingDemo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T04:56:17.021Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T04:56:17.021Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\Day8\\Day8ConsoleApp\\Day8ConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "Day8ConsoleApp\\Program.cs",
               "ToolTip": "C:\\dotnet_training\\Daily_Codes\\Day8\\Day8ConsoleApp\\Day8ConsoleApp\\Program.cs",
               "RelativeToolTip": "Day8ConsoleApp\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACwAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-10T04:49:38.726Z",
               "EditorCaption": ""

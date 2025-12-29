@@ -26,8 +26,7 @@ namespace Caching
 
         private void GetProductsByName(string productname)
         {
-            SqlConnection con = new SqlConnection("Data Source=laptop-tjj7d977; initial catalog=infinite;" +
-                "integrated security=true;");
+            SqlConnection con = new SqlConnection("Data Source=(localdb)\\MSSQLLocalDB; initial catalog=PracticeDB;" + "integrated security=true;");
             SqlDataAdapter da = new SqlDataAdapter("spGetProductByName", con);
             da.SelectCommand.CommandType = CommandType.StoredProcedure;
             SqlParameter param1 = new SqlParameter();
