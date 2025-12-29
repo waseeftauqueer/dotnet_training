@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    .c1{
+        background-color: tomato;
+        border: 3px solid red;
+    }
+</style>
+<body>
+    <script>
+        function demo1(){
+            document.getElementById("d1").innerHTML = "<b>Div element content changed</b>";
+        }
+        function demo2(){
+            var a = document.getElementById("d1");
+            a.setAttribute("class","c1");
+        }
+        function demo3(){
+            var a = document.getElementById("d1");
+            a.removeAttribute("class","c1");
+        }
+        function demo4(){
+            var a = document.getElementById("d1");
+            var m = document.createElement("p");
+            var n = document.createTextNode("Hello Students");
+            m.appendChild(n);
+            a.appendChild(m);
+        }
+        function demo5(){
+            var a = document.getElementById("d1");
+            a.removeChild(a.lastChild);
+        }
+        function demo6(){
+            var a = document.getElementById("d1");
+            a.hidden = true;
+        }
+    </script>
+    <div id="d1">Hello World</div>
+    <input type="button" value="change div content" onclick="demo1()">
+    <input type="button" value="apply css" onclick="demo2()">
+    <input type="button" value="remove css" onclick="demo3()">
+    <input type="button" value="add element" onclick="demo4()">
+    <input type="button" value="remove element" onclick="demo5()">
+    <input type="button" value="hide div element" onclick="demo6()">
+
+    <script>
+        for(i=0; i < 10; i++){
+            document.write("<input type ='text' id='t1'/>")
+        }
+        function display(){
+            alert(t1[0].value);
+            alert(t1[1].value);
+        }
+    </script>
+    <input type="button" value="click here" onclick="display()">
+</body>
+</html>

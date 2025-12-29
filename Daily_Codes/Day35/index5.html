@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        function Display1(){
+            document.getElementById("d1").innerText = "You Are God Damn Right"
+        }
+        function Display2(){
+            document.getElementById("d2").innerText = "HIESENBERG"
+        }
+        function Display3(){
+            var a = document.getElementById("t1").value;
+            var b = document.getElementById("t2").value;
+            alert(parseInt(a) + parseInt(b));
+        }
+        function getdata(){
+            var a = document.getElementById("s1").value;
+            alert(a);
+        }
+    </script>
+
+    <div id="d1" style="border: 3px solid black; display: flex; justify-content: center; height: 1000px; font-size: 100px; font-family: Helvetica; font-weight: bold; background-color: rgb(24, 24, 24);color: rgb(2, 194, 12);" onclick="Display1()">
+        SAY MY NAME
+    </div>
+    <div id="d2" style="border: 3px solid black; display: flex; justify-content: center; height: 1000px; font-size: 100px; font-family: Helvetica; font-weight: bold;" onmouseover="Display2()" onmouseout="Display1()">
+        SAY MY NAME
+    </div>
+    <div style="border: 3px solid black; display: flex; justify-content: center; height: 1000px; font-size: 100px; font-family: Helvetica; font-weight: bold; background-color: black;color: white;flex-direction: column;">
+    <input type="text" id="t1" style="height: 50px; width: 300px;"><br>
+    <input type="text" id="t2" style="height: 50px; width: 300px;"><br>
+    <input type="button" value="CLICK HERE" onclick="Display3()" style="height: 50px;width: 300px;border-radius: 0px; border: none; background-color: rgb(201, 200, 198); color:  rgb(0, 0, 0);font-weight: bold;font-family: Helvetica;">
+</div>
+
+    <input type="text" name="" id="tt1" onfocus="Display1">
+    <input type="text" name="" id="tt2" onblur="Display2">
+    <input type="button" id="bt1" value="button">
+
+    <select name="Select" id="s1" onchange="getdata()">
+        <option value="Messi">Messi</option>
+        <option value="Ronaldo">Ronaldo</option>
+        <option value="Neymar">Neymar</option>
+    </select>
+</body>
+</html>

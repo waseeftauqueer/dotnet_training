@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{069AC7E7-481C-4C9C-A8F1-C62DA1345EC2}|Day5ConsoleApp\\Day5ConsoleApp.csproj|solutionrelative:day5consoleapp\\gettersetterdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{069AC7E7-481C-4C9C-A8F1-C62DA1345EC2}|Day5ConsoleApp\\Day5ConsoleApp.csproj|c:\\users\\waseeft\\desktop\\dotnet_training\\c#\\day5\\day5consoleapp\\day5consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{069AC7E7-481C-4C9C-A8F1-C62DA1345EC2}|Day5ConsoleApp\\Day5ConsoleApp.csproj|C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day5\\Day5ConsoleApp\\day5consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{069AC7E7-481C-4C9C-A8F1-C62DA1345EC2}|Day5ConsoleApp\\Day5ConsoleApp.csproj|solutionrelative:day5consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Day5ConsoleApp\\GetterSetterDemo.cs",
               "ToolTip": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day5\\Day5ConsoleApp\\Day5ConsoleApp\\GetterSetterDemo.cs",
               "RelativeToolTip": "Day5ConsoleApp\\GetterSetterDemo.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAAB8AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-05T11:52:24.077Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "Day5ConsoleApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAALAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T06:47:54.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T06:47:54.348Z"
             }
           ]
         }

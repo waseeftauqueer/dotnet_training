@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="one">PORTUGAL</div>
+    <div id="two">ARGENTINA</div>
+    <div id="three">FRANCE</div>
+    <div id="four">SPAIN</div>
+
+    <img id = "im1" src="Cool-Black-And-White-Wallpapers-Resolution-1920x1080-Desktop-Backgrounds-110.jpg" alt="">
+    <script>
+        var a = document.getElementById("one").innerText;
+        alert("the content is " + a);
+        document.getElementById("one").innerText = "Lets learn js";
+        document.getElementById("im1").src="51386.jpg";
+
+        var res = document.getElementsByTagName("div");
+        for( var i =0; i < res.length; i++){
+            alert(res[i].innerText);
+        }
+    </script>
+</body>
+</html>
