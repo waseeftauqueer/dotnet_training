@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day9\\Day9ConsoleApp\\",
+  "WorkspaceRootPath": "C:\\dotnet_training\\Daily_Codes\\Day9\\Day9ConsoleApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6C2EBA4-B1F6-46DA-AD01-125D3F3EC7F2}|Day9ConsoleApp\\Day9ConsoleApp.csproj|c:\\users\\waseeft\\desktop\\dotnet_training\\c#\\day9\\day9consoleapp\\day9consoleapp\\ageexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6C2EBA4-B1F6-46DA-AD01-125D3F3EC7F2}|Day9ConsoleApp\\Day9ConsoleApp.csproj|solutionrelative:day9consoleapp\\ageexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6C2EBA4-B1F6-46DA-AD01-125D3F3EC7F2}|Day9ConsoleApp\\Day9ConsoleApp.csproj|C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day9\\Day9ConsoleApp\\day9consoleapp\\operatoroverloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6C2EBA4-B1F6-46DA-AD01-125D3F3EC7F2}|Day9ConsoleApp\\Day9ConsoleApp.csproj|C:\\dotnet_training\\Daily_Codes\\Day9\\Day9ConsoleApp\\day9consoleapp\\operatoroverloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6C2EBA4-B1F6-46DA-AD01-125D3F3EC7F2}|Day9ConsoleApp\\Day9ConsoleApp.csproj|solutionrelative:day9consoleapp\\operatoroverloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6C2EBA4-B1F6-46DA-AD01-125D3F3EC7F2}|Day9ConsoleApp\\Day9ConsoleApp.csproj|c:\\users\\waseeft\\desktop\\dotnet_training\\c#\\day9\\day9consoleapp\\day9consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6C2EBA4-B1F6-46DA-AD01-125D3F3EC7F2}|Day9ConsoleApp\\Day9ConsoleApp.csproj|C:\\dotnet_training\\Daily_Codes\\Day9\\Day9ConsoleApp\\day9consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6C2EBA4-B1F6-46DA-AD01-125D3F3EC7F2}|Day9ConsoleApp\\Day9ConsoleApp.csproj|solutionrelative:day9consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C2EBA4-B1F6-46DA-AD01-125D3F3EC7F2}|Day9ConsoleApp\\Day9ConsoleApp.csproj|c:\\dotnet_training\\daily_codes\\day9\\day9consoleapp\\day9consoleapp\\ageexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C2EBA4-B1F6-46DA-AD01-125D3F3EC7F2}|Day9ConsoleApp\\Day9ConsoleApp.csproj|solutionrelative:day9consoleapp\\ageexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,19 +22,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "AgeException.cs",
-              "DocumentMoniker": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day9\\Day9ConsoleApp\\Day9ConsoleApp\\AgeException.cs",
+              "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\Day9\\Day9ConsoleApp\\Day9ConsoleApp\\AgeException.cs",
               "RelativeDocumentMoniker": "Day9ConsoleApp\\AgeException.cs",
-              "ToolTip": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day9\\Day9ConsoleApp\\Day9ConsoleApp\\AgeException.cs",
+              "ToolTip": "C:\\dotnet_training\\Daily_Codes\\Day9\\Day9ConsoleApp\\Day9ConsoleApp\\AgeException.cs",
               "RelativeToolTip": "Day9ConsoleApp\\AgeException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -43,26 +43,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "OperatorOverloading.cs",
-              "DocumentMoniker": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day9\\Day9ConsoleApp\\Day9ConsoleApp\\OperatorOverloading.cs",
+              "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\Day9\\Day9ConsoleApp\\Day9ConsoleApp\\OperatorOverloading.cs",
               "RelativeDocumentMoniker": "Day9ConsoleApp\\OperatorOverloading.cs",
-              "ToolTip": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day9\\Day9ConsoleApp\\Day9ConsoleApp\\OperatorOverloading.cs",
+              "ToolTip": "C:\\dotnet_training\\Daily_Codes\\Day9\\Day9ConsoleApp\\Day9ConsoleApp\\OperatorOverloading.cs",
               "RelativeToolTip": "Day9ConsoleApp\\OperatorOverloading.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBIAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-11T07:18:37.84Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day9\\Day9ConsoleApp\\Day9ConsoleApp\\Program.cs",
+              "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\Day9\\Day9ConsoleApp\\Day9ConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "Day9ConsoleApp\\Program.cs",
-              "ToolTip": "C:\\Users\\waseeft\\Desktop\\Dotnet_Training\\c#\\Day9\\Day9ConsoleApp\\Day9ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\dotnet_training\\Daily_Codes\\Day9\\Day9ConsoleApp\\Day9ConsoleApp\\Program.cs",
               "RelativeToolTip": "Day9ConsoleApp\\Program.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAcwDgAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-11T05:43:14.028Z",
               "EditorCaption": ""

@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dotnet_training\\Daily_Codes\\Day40\\Exception_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7F8732-3F84-4E3F-8E2F-004F1B11FE52}|Exception_Project\\Exception_Project.csproj|c:\\dotnet_training\\daily_codes\\day40\\exception_project\\exception_project\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7F8732-3F84-4E3F-8E2F-004F1B11FE52}|Exception_Project\\Exception_Project.csproj|solutionrelative:exception_project\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7F8732-3F84-4E3F-8E2F-004F1B11FE52}|Exception_Project\\Exception_Project.csproj|c:\\dotnet_training\\daily_codes\\day40\\exception_project\\exception_project\\dberror.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BB7F8732-3F84-4E3F-8E2F-004F1B11FE52}|Exception_Project\\Exception_Project.csproj|solutionrelative:exception_project\\dberror.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7F8732-3F84-4E3F-8E2F-004F1B11FE52}|Exception_Project\\Exception_Project.csproj|c:\\dotnet_training\\daily_codes\\day40\\exception_project\\exception_project\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7F8732-3F84-4E3F-8E2F-004F1B11FE52}|Exception_Project\\Exception_Project.csproj|solutionrelative:exception_project\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7F8732-3F84-4E3F-8E2F-004F1B11FE52}|Exception_Project\\Exception_Project.csproj|c:\\dotnet_training\\daily_codes\\day40\\exception_project\\exception_project\\dberror.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7F8732-3F84-4E3F-8E2F-004F1B11FE52}|Exception_Project\\Exception_Project.csproj|solutionrelative:exception_project\\dberror.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7F8732-3F84-4E3F-8E2F-004F1B11FE52}|Exception_Project\\Exception_Project.csproj|c:\\dotnet_training\\daily_codes\\day40\\exception_project\\exception_project\\exceptionloggingdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7F8732-3F84-4E3F-8E2F-004F1B11FE52}|Exception_Project\\Exception_Project.csproj|solutionrelative:exception_project\\exceptionloggingdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7F8732-3F84-4E3F-8E2F-004F1B11FE52}|Exception_Project\\Exception_Project.csproj|c:\\dotnet_training\\daily_codes\\day40\\exception_project\\exception_project\\pagenotfound.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BB7F8732-3F84-4E3F-8E2F-004F1B11FE52}|Exception_Project\\Exception_Project.csproj|solutionrelative:exception_project\\pagenotfound.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7F8732-3F84-4E3F-8E2F-004F1B11FE52}|Exception_Project\\Exception_Project.csproj|c:\\dotnet_training\\daily_codes\\day40\\exception_project\\exception_project\\err.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BB7F8732-3F84-4E3F-8E2F-004F1B11FE52}|Exception_Project\\Exception_Project.csproj|solutionrelative:exception_project\\err.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7F8732-3F84-4E3F-8E2F-004F1B11FE52}|Exception_Project\\Exception_Project.csproj|c:\\dotnet_training\\daily_codes\\day40\\exception_project\\exception_project\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BB7F8732-3F84-4E3F-8E2F-004F1B11FE52}|Exception_Project\\Exception_Project.csproj|solutionrelative:exception_project\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7F8732-3F84-4E3F-8E2F-004F1B11FE52}|Exception_Project\\Exception_Project.csproj|c:\\dotnet_training\\daily_codes\\day40\\exception_project\\exception_project\\employee.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BB7F8732-3F84-4E3F-8E2F-004F1B11FE52}|Exception_Project\\Exception_Project.csproj|solutionrelative:exception_project\\employee.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7F8732-3F84-4E3F-8E2F-004F1B11FE52}|Exception_Project\\Exception_Project.csproj|c:\\dotnet_training\\daily_codes\\day40\\exception_project\\exception_project\\testerr.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BB7F8732-3F84-4E3F-8E2F-004F1B11FE52}|Exception_Project\\Exception_Project.csproj|solutionrelative:exception_project\\testerr.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7F8732-3F84-4E3F-8E2F-004F1B11FE52}|Exception_Project\\Exception_Project.csproj|c:\\dotnet_training\\daily_codes\\day40\\exception_project\\exception_project\\servererr.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BB7F8732-3F84-4E3F-8E2F-004F1B11FE52}|Exception_Project\\Exception_Project.csproj|solutionrelative:exception_project\\servererr.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7F8732-3F84-4E3F-8E2F-004F1B11FE52}|Exception_Project\\Exception_Project.csproj|c:\\dotnet_training\\daily_codes\\day40\\exception_project\\exception_project\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BB7F8732-3F84-4E3F-8E2F-004F1B11FE52}|Exception_Project\\Exception_Project.csproj|solutionrelative:exception_project\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7F8732-3F84-4E3F-8E2F-004F1B11FE52}|Exception_Project\\Exception_Project.csproj|c:\\dotnet_training\\daily_codes\\day40\\exception_project\\exception_project\\errorfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BB7F8732-3F84-4E3F-8E2F-004F1B11FE52}|Exception_Project\\Exception_Project.csproj|solutionrelative:exception_project\\errorfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7F8732-3F84-4E3F-8E2F-004F1B11FE52}|Exception_Project\\Exception_Project.csproj|c:\\dotnet_training\\daily_codes\\day40\\exception_project\\exception_project\\defaulterr.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BB7F8732-3F84-4E3F-8E2F-004F1B11FE52}|Exception_Project\\Exception_Project.csproj|solutionrelative:exception_project\\defaulterr.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorFile.txt",
+              "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\Day40\\Exception_Project\\Exception_Project\\ErrorFile.txt",
+              "RelativeDocumentMoniker": "Exception_Project\\ErrorFile.txt",
+              "ToolTip": "C:\\dotnet_training\\Daily_Codes\\Day40\\Exception_Project\\Exception_Project\\ErrorFile.txt",
+              "RelativeToolTip": "Exception_Project\\ErrorFile.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-30T07:11:53.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\Day40\\Exception_Project\\Exception_Project\\Web.config",
+              "RelativeDocumentMoniker": "Exception_Project\\Web.config",
+              "ToolTip": "C:\\dotnet_training\\Daily_Codes\\Day40\\Exception_Project\\Exception_Project\\Web.config",
+              "RelativeToolTip": "Exception_Project\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-30T06:38:42.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBError.aspx",
+              "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\Day40\\Exception_Project\\Exception_Project\\DBError.aspx",
+              "RelativeDocumentMoniker": "Exception_Project\\DBError.aspx",
+              "ToolTip": "C:\\dotnet_training\\Daily_Codes\\Day40\\Exception_Project\\Exception_Project\\DBError.aspx",
+              "RelativeToolTip": "Exception_Project\\DBError.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-30T06:35:15.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExceptionLoggingDB.cs",
+              "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\Day40\\Exception_Project\\Exception_Project\\ExceptionLoggingDB.cs",
+              "RelativeDocumentMoniker": "Exception_Project\\ExceptionLoggingDB.cs",
+              "ToolTip": "C:\\dotnet_training\\Daily_Codes\\Day40\\Exception_Project\\Exception_Project\\ExceptionLoggingDB.cs",
+              "RelativeToolTip": "Exception_Project\\ExceptionLoggingDB.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T06:37:14.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DBError.aspx.cs",
+              "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\Day40\\Exception_Project\\Exception_Project\\DBError.aspx.cs",
+              "RelativeDocumentMoniker": "Exception_Project\\DBError.aspx.cs",
+              "ToolTip": "C:\\dotnet_training\\Daily_Codes\\Day40\\Exception_Project\\Exception_Project\\DBError.aspx.cs",
+              "RelativeToolTip": "Exception_Project\\DBError.aspx.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvx0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T06:36:06.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\Day40\\Exception_Project\\Exception_Project\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Exception_Project\\Global.asax.cs",
+              "ToolTip": "C:\\dotnet_training\\Daily_Codes\\Day40\\Exception_Project\\Exception_Project\\Global.asax.cs",
+              "RelativeToolTip": "Exception_Project\\Global.asax.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T06:33:30.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.xml",
+              "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\Day40\\Exception_Project\\Exception_Project\\Employee.xml",
+              "RelativeDocumentMoniker": "Exception_Project\\Employee.xml",
+              "ToolTip": "C:\\dotnet_training\\Daily_Codes\\Day40\\Exception_Project\\Exception_Project\\Employee.xml",
+              "RelativeToolTip": "Exception_Project\\Employee.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-12-30T04:56:31.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TestErr.aspx",
+              "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\Day40\\Exception_Project\\Exception_Project\\TestErr.aspx",
+              "RelativeDocumentMoniker": "Exception_Project\\TestErr.aspx",
+              "ToolTip": "C:\\dotnet_training\\Daily_Codes\\Day40\\Exception_Project\\Exception_Project\\TestErr.aspx",
+              "RelativeToolTip": "Exception_Project\\TestErr.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-30T04:55:34.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Err.aspx",
+              "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\Day40\\Exception_Project\\Exception_Project\\Err.aspx",
+              "RelativeDocumentMoniker": "Exception_Project\\Err.aspx",
+              "ToolTip": "C:\\dotnet_training\\Daily_Codes\\Day40\\Exception_Project\\Exception_Project\\Err.aspx",
+              "RelativeToolTip": "Exception_Project\\Err.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-30T04:55:06.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DefaultErr.aspx",
+              "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\Day40\\Exception_Project\\Exception_Project\\DefaultErr.aspx",
+              "RelativeDocumentMoniker": "Exception_Project\\DefaultErr.aspx",
+              "ToolTip": "C:\\dotnet_training\\Daily_Codes\\Day40\\Exception_Project\\Exception_Project\\DefaultErr.aspx",
+              "RelativeToolTip": "Exception_Project\\DefaultErr.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-30T04:54:34.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\Day40\\Exception_Project\\Exception_Project\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "Exception_Project\\WebForm1.aspx.cs",
+              "ToolTip": "C:\\dotnet_training\\Daily_Codes\\Day40\\Exception_Project\\Exception_Project\\WebForm1.aspx.cs*",
+              "RelativeToolTip": "Exception_Project\\WebForm1.aspx.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T04:53:22.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\Day40\\Exception_Project\\Exception_Project\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "Exception_Project\\WebForm1.aspx",
+              "ToolTip": "C:\\dotnet_training\\Daily_Codes\\Day40\\Exception_Project\\Exception_Project\\WebForm1.aspx",
+              "RelativeToolTip": "Exception_Project\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-30T04:52:10.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServerErr.aspx",
+              "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\Day40\\Exception_Project\\Exception_Project\\ServerErr.aspx",
+              "RelativeDocumentMoniker": "Exception_Project\\ServerErr.aspx",
+              "ToolTip": "C:\\dotnet_training\\Daily_Codes\\Day40\\Exception_Project\\Exception_Project\\ServerErr.aspx",
+              "RelativeToolTip": "Exception_Project\\ServerErr.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-30T04:51:38.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PageNotFound.aspx",
+              "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\Day40\\Exception_Project\\Exception_Project\\PageNotFound.aspx",
+              "RelativeDocumentMoniker": "Exception_Project\\PageNotFound.aspx",
+              "ToolTip": "C:\\dotnet_training\\Daily_Codes\\Day40\\Exception_Project\\Exception_Project\\PageNotFound.aspx",
+              "RelativeToolTip": "Exception_Project\\PageNotFound.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-30T04:50:49.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
