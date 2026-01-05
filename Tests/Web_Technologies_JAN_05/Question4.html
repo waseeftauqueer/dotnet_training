@@ -2,15 +2,13 @@
 <html>
 <head>
     <style>
-        tr:nth-child(even) {
+        div tr:nth-child(even) {
             display: none;
         }
     </style>
 </head>
 <body>
-
-    <h1>Table</h1>
-
+    <h1>Actual Table</h1>
     <table border="2">
         <tr>
             <th>ID</th>
@@ -33,6 +31,33 @@
             <td>Aston Martin</td>
         </tr>
     </table>
+
+    <h1>Changed Table</h1>
+    <div>
+        <table border="2">
+            <tr>
+                <th>ID</th>
+                <th>Car</th>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>Mercedes</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>BMW</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Benetly</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Aston Martin</td>
+            </tr>
+        </table>
+    </div>
+    
 
 </body>
 </html>
