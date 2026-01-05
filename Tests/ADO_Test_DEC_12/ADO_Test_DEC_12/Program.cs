@@ -22,7 +22,6 @@ namespace ADO_Test_DEC_12
             //disconnectedArchitecture.UpdateCredits();
             //disconnectedArchitecture.InsertCourse();
             //disconnectedArchitecture.DeleteData();
-            disconnectedArchitecture.StoredProcedure();
         }
     }
 }

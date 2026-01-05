@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script>
+        function multiply() {
+            let number1 = document.getElementById("n1").value;
+            let number2 = document.getElementById("n2").value;
+            document.getElementById("answer").innerHTML ="Result of Multiplication: " +(number1 * number2);
+        }
+        function divide() {
+            let number1 = document.getElementById("n1").value;
+            let number2 = document.getElementById("n2").value;
+            if (number2 == 0) {
+                document.getElementById("answer").innerHTML= "Cannot divide by zero";
+            } else {
+                document.getElementById("answer").innerHTML ="Result of Division: " +(number1 / number2);
+            }
+        }
+    </script>
+</head>
+<body>
+    <h2>Multiplication and Division</h2>
+    <p>Number 1:</p>
+    <input type="number" id="n1"><br><br>
+
+    <p>Number 2:</p>
+    <input type="number" id="n2"><br><br>
+
+    <button onclick="multiply()">Multiply</button>
+    <button onclick="divide()">Divide</button>
+    <p id="answer"></p>
+</body>
+</html>

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="jquery-3.7.1.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            $("#inp").change(function() {
+                $("#div1").append("<p>Input Changed</p>");
+            });
+        });
+    </script>
+</head>
+<body>
+    <input type="text" id="inp">
+    <div id="div1">
+    </div>
+</body>
+</html>

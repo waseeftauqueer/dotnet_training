@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\dotnet_training\\Tests\\ADO_Test_DEC_12\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C9C51FF9-BE0B-460A-B5E9-B52F63724237}|ADO_Test_DEC_12\\ADO_Test_DEC_12.csproj|C:\\dotnet_training\\Tests\\ADO_Test_DEC_12\\ado_test_dec_12\\connectedarchitecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C51FF9-BE0B-460A-B5E9-B52F63724237}|ADO_Test_DEC_12\\ADO_Test_DEC_12.csproj|solutionrelative:ado_test_dec_12\\connectedarchitecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C9C51FF9-BE0B-460A-B5E9-B52F63724237}|ADO_Test_DEC_12\\ADO_Test_DEC_12.csproj|c:\\dotnet_training\\tests\\ado_test_dec_12\\ado_test_dec_12\\disconnectedarchitecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9C51FF9-BE0B-460A-B5E9-B52F63724237}|ADO_Test_DEC_12\\ADO_Test_DEC_12.csproj|solutionrelative:ado_test_dec_12\\disconnectedarchitecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9C51FF9-BE0B-460A-B5E9-B52F63724237}|ADO_Test_DEC_12\\ADO_Test_DEC_12.csproj|c:\\dotnet_training\\tests\\ado_test_dec_12\\ado_test_dec_12\\connectedarchitecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9C51FF9-BE0B-460A-B5E9-B52F63724237}|ADO_Test_DEC_12\\ADO_Test_DEC_12.csproj|solutionrelative:ado_test_dec_12\\connectedarchitecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9C51FF9-BE0B-460A-B5E9-B52F63724237}|ADO_Test_DEC_12\\ADO_Test_DEC_12.csproj|c:\\dotnet_training\\tests\\ado_test_dec_12\\ado_test_dec_12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9C51FF9-BE0B-460A-B5E9-B52F63724237}|ADO_Test_DEC_12\\ADO_Test_DEC_12.csproj|C:\\dotnet_training\\Tests\\ADO_Test_DEC_12\\ado_test_dec_12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9C51FF9-BE0B-460A-B5E9-B52F63724237}|ADO_Test_DEC_12\\ADO_Test_DEC_12.csproj|solutionrelative:ado_test_dec_12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,30 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DisconnectedArchitecture.cs",
               "DocumentMoniker": "C:\\dotnet_training\\Tests\\ADO_Test_DEC_12\\ADO_Test_DEC_12\\DisconnectedArchitecture.cs",
               "RelativeDocumentMoniker": "ADO_Test_DEC_12\\DisconnectedArchitecture.cs",
               "ToolTip": "C:\\dotnet_training\\Tests\\ADO_Test_DEC_12\\ADO_Test_DEC_12\\DisconnectedArchitecture.cs",
               "RelativeToolTip": "ADO_Test_DEC_12\\DisconnectedArchitecture.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH8AAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAIwIQAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-12T10:22:13.989Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ConnectedArchitecture.cs",
               "DocumentMoniker": "C:\\dotnet_training\\Tests\\ADO_Test_DEC_12\\ADO_Test_DEC_12\\ConnectedArchitecture.cs",
               "RelativeDocumentMoniker": "ADO_Test_DEC_12\\ConnectedArchitecture.cs",
               "ToolTip": "C:\\dotnet_training\\Tests\\ADO_Test_DEC_12\\ADO_Test_DEC_12\\ConnectedArchitecture.cs",
               "RelativeToolTip": "ADO_Test_DEC_12\\ConnectedArchitecture.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG8AAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAIwHoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-12T09:28:46.091Z",
               "EditorCaption": ""
@@ -58,7 +62,7 @@
               "RelativeDocumentMoniker": "ADO_Test_DEC_12\\Program.cs",
               "ToolTip": "C:\\dotnet_training\\Tests\\ADO_Test_DEC_12\\ADO_Test_DEC_12\\Program.cs",
               "RelativeToolTip": "ADO_Test_DEC_12\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBgAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-12T09:07:26.657Z",
               "EditorCaption": ""
