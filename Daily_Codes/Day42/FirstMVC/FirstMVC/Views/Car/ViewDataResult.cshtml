@@ -1,0 +1,13 @@
+﻿@using FirstMVC.Models
+@{
+    ViewBag.Title = "ViewDataResult";
+}
+
+<h2>ViewDataResult</h2>
+
+<ul>
+    @foreach (var item in ViewData["Cars"] as List<Car>)
+    {
+        <li>@item.Id - @item.Name</li>
+    }
+</ul>

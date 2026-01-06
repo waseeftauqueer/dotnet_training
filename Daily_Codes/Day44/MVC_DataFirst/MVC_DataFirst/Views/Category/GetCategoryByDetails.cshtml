@@ -1,0 +1,14 @@
+﻿﻿@model IEnumerable<MVC_DataFirst.Models.Category>
+@{
+    ViewBag.Title = "GetCategoryByDetails";
+}
+
+<h2>GetCategoryByDetails</h2>
+@foreach (var item in Model)
+{
+    <ul style="color:firebrick;">
+        <li>@item.CategoryID</li>
+        <li>@item.CategoryName</li>
+        <li>@item.Description</li>
+    </ul>
+}

@@ -3,32 +3,24 @@
   "WorkspaceRootPath": "C:\\dotnet_training\\Daily_Codes\\Day33\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{479B345A-B202-449E-A9B0-9101DF43A9E9}|Day33\\Day33.csproj|C:\\dotnet_training\\Daily_Codes\\Day33\\day33\\pizzas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479B345A-B202-449E-A9B0-9101DF43A9E9}|Day33\\Day33.csproj|solutionrelative:day33\\pizzas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479B345A-B202-449E-A9B0-9101DF43A9E9}|Day33\\Day33.csproj|C:\\dotnet_training\\Daily_Codes\\Day33\\day33\\crudops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479B345A-B202-449E-A9B0-9101DF43A9E9}|Day33\\Day33.csproj|solutionrelative:day33\\crudops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479B345A-B202-449E-A9B0-9101DF43A9E9}|Day33\\Day33.csproj|C:\\dotnet_training\\Daily_Codes\\Day33\\day33\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{479B345A-B202-449E-A9B0-9101DF43A9E9}|Day33\\Day33.csproj|solutionrelative:day33\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{479B345A-B202-449E-A9B0-9101DF43A9E9}|Day33\\Day33.csproj|c:\\dotnet_training\\daily_codes\\day33\\day33\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{479B345A-B202-449E-A9B0-9101DF43A9E9}|Day33\\Day33.csproj|solutionrelative:day33\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{479B345A-B202-449E-A9B0-9101DF43A9E9}|Day33\\Day33.csproj|c:\\dotnet_training\\daily_codes\\day33\\day33\\crudops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{479B345A-B202-449E-A9B0-9101DF43A9E9}|Day33\\Day33.csproj|solutionrelative:day33\\crudops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{479B345A-B202-449E-A9B0-9101DF43A9E9}|Day33\\Day33.csproj|c:\\dotnet_training\\daily_codes\\day33\\day33\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{479B345A-B202-449E-A9B0-9101DF43A9E9}|Day33\\Day33.csproj|solutionrelative:day33\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{479B345A-B202-449E-A9B0-9101DF43A9E9}|Day33\\Day33.csproj|c:\\dotnet_training\\daily_codes\\day33\\day33\\pizzas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{479B345A-B202-449E-A9B0-9101DF43A9E9}|Day33\\Day33.csproj|solutionrelative:day33\\pizzas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{479B345A-B202-449E-A9B0-9101DF43A9E9}|Day33\\Day33.csproj|c:\\dotnet_training\\daily_codes\\day33\\day33\\model1.edmx.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "AbsoluteMoniker": "D:0:0:{479B345A-B202-449E-A9B0-9101DF43A9E9}|Day33\\Day33.csproj|C:\\dotnet_training\\Daily_Codes\\Day33\\day33\\model1.edmx.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
       "RelativeMoniker": "D:0:0:{479B345A-B202-449E-A9B0-9101DF43A9E9}|Day33\\Day33.csproj|solutionrelative:day33\\model1.edmx.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{479B345A-B202-449E-A9B0-9101DF43A9E9}|Day33\\Day33.csproj|c:\\dotnet_training\\daily_codes\\day33\\day33\\model1.edmx.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{479B345A-B202-449E-A9B0-9101DF43A9E9}|Day33\\Day33.csproj|solutionrelative:day33\\model1.edmx.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{479B345A-B202-449E-A9B0-9101DF43A9E9}|Day33\\Day33.csproj|c:\\dotnet_training\\daily_codes\\day33\\day33\\model1.edmx.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
-      "RelativeMoniker": "D:0:0:{479B345A-B202-449E-A9B0-9101DF43A9E9}|Day33\\Day33.csproj|solutionrelative:day33\\model1.edmx.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +30,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Pizzas.cs",
               "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\Day33\\Day33\\Pizzas.cs",
               "RelativeDocumentMoniker": "Day33\\Pizzas.cs",
@@ -61,7 +57,7 @@
               "RelativeDocumentMoniker": "Day33\\CrudOps.cs",
               "ToolTip": "C:\\dotnet_training\\Daily_Codes\\Day33\\Day33\\CrudOps.cs",
               "RelativeToolTip": "Day33\\CrudOps.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwA8AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-16T04:56:42.409Z",
               "EditorCaption": ""
@@ -75,8 +71,7 @@
               "ToolTip": "C:\\dotnet_training\\Daily_Codes\\Day33\\Day33\\Model1.edmx.sql",
               "RelativeToolTip": "Day33\\Model1.edmx.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-12-16T04:46:02.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-16T04:46:02.778Z"
             },
             {
               "$type": "Document",
@@ -92,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\Day33\\Day33\\Program.cs",
               "RelativeDocumentMoniker": "Day33\\Program.cs",

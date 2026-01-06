@@ -3,44 +3,44 @@
   "WorkspaceRootPath": "C:\\dotnet_training\\Daily_Codes\\CodeFIrstDemo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2069F8E-E4AA-476F-A62B-509229C5D2BD}|CodeFIrstDemo\\CodeFIrstDemo.csproj|C:\\dotnet_training\\Daily_Codes\\CodeFIrstDemo\\codefirstdemo\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2069F8E-E4AA-476F-A62B-509229C5D2BD}|CodeFIrstDemo\\CodeFIrstDemo.csproj|solutionrelative:codefirstdemo\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2069F8E-E4AA-476F-A62B-509229C5D2BD}|CodeFIrstDemo\\CodeFIrstDemo.csproj|C:\\dotnet_training\\Daily_Codes\\CodeFIrstDemo\\codefirstdemo\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2069F8E-E4AA-476F-A62B-509229C5D2BD}|CodeFIrstDemo\\CodeFIrstDemo.csproj|solutionrelative:codefirstdemo\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2069F8E-E4AA-476F-A62B-509229C5D2BD}|CodeFIrstDemo\\CodeFIrstDemo.csproj|C:\\dotnet_training\\Daily_Codes\\CodeFIrstDemo\\codefirstdemo\\migrations\\202512151010099_inititalcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2069F8E-E4AA-476F-A62B-509229C5D2BD}|CodeFIrstDemo\\CodeFIrstDemo.csproj|solutionrelative:codefirstdemo\\migrations\\202512151010099_inititalcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2069F8E-E4AA-476F-A62B-509229C5D2BD}|CodeFIrstDemo\\CodeFIrstDemo.csproj|C:\\dotnet_training\\Daily_Codes\\CodeFIrstDemo\\codefirstdemo\\cruddemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2069F8E-E4AA-476F-A62B-509229C5D2BD}|CodeFIrstDemo\\CodeFIrstDemo.csproj|solutionrelative:codefirstdemo\\cruddemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2069F8E-E4AA-476F-A62B-509229C5D2BD}|CodeFIrstDemo\\CodeFIrstDemo.csproj|c:\\dotnet_training\\daily_codes\\codefirstdemo\\codefirstdemo\\cruddemo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2069F8E-E4AA-476F-A62B-509229C5D2BD}|CodeFIrstDemo\\CodeFIrstDemo.csproj|solutionrelative:codefirstdemo\\cruddemo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2069F8E-E4AA-476F-A62B-509229C5D2BD}|CodeFIrstDemo\\CodeFIrstDemo.csproj|c:\\dotnet_training\\daily_codes\\codefirstdemo\\codefirstdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2069F8E-E4AA-476F-A62B-509229C5D2BD}|CodeFIrstDemo\\CodeFIrstDemo.csproj|solutionrelative:codefirstdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2069F8E-E4AA-476F-A62B-509229C5D2BD}|CodeFIrstDemo\\CodeFIrstDemo.csproj|c:\\dotnet_training\\daily_codes\\codefirstdemo\\codefirstdemo\\cruddemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2069F8E-E4AA-476F-A62B-509229C5D2BD}|CodeFIrstDemo\\CodeFIrstDemo.csproj|solutionrelative:codefirstdemo\\cruddemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2069F8E-E4AA-476F-A62B-509229C5D2BD}|CodeFIrstDemo\\CodeFIrstDemo.csproj|c:\\dotnet_training\\daily_codes\\codefirstdemo\\codefirstdemo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2069F8E-E4AA-476F-A62B-509229C5D2BD}|CodeFIrstDemo\\CodeFIrstDemo.csproj|solutionrelative:codefirstdemo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2069F8E-E4AA-476F-A62B-509229C5D2BD}|CodeFIrstDemo\\CodeFIrstDemo.csproj|c:\\dotnet_training\\daily_codes\\codefirstdemo\\codefirstdemo\\migrations\\202512151010099_inititalcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2069F8E-E4AA-476F-A62B-509229C5D2BD}|CodeFIrstDemo\\CodeFIrstDemo.csproj|solutionrelative:codefirstdemo\\migrations\\202512151010099_inititalcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2069F8E-E4AA-476F-A62B-509229C5D2BD}|CodeFIrstDemo\\CodeFIrstDemo.csproj|c:\\dotnet_training\\daily_codes\\codefirstdemo\\codefirstdemo\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2069F8E-E4AA-476F-A62B-509229C5D2BD}|CodeFIrstDemo\\CodeFIrstDemo.csproj|C:\\dotnet_training\\Daily_Codes\\CodeFIrstDemo\\codefirstdemo\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2069F8E-E4AA-476F-A62B-509229C5D2BD}|CodeFIrstDemo\\CodeFIrstDemo.csproj|solutionrelative:codefirstdemo\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2069F8E-E4AA-476F-A62B-509229C5D2BD}|CodeFIrstDemo\\CodeFIrstDemo.csproj|c:\\dotnet_training\\daily_codes\\codefirstdemo\\codefirstdemo\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2069F8E-E4AA-476F-A62B-509229C5D2BD}|CodeFIrstDemo\\CodeFIrstDemo.csproj|solutionrelative:codefirstdemo\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2069F8E-E4AA-476F-A62B-509229C5D2BD}|CodeFIrstDemo\\CodeFIrstDemo.csproj|C:\\dotnet_training\\Daily_Codes\\CodeFIrstDemo\\codefirstdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2069F8E-E4AA-476F-A62B-509229C5D2BD}|CodeFIrstDemo\\CodeFIrstDemo.csproj|solutionrelative:codefirstdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2069F8E-E4AA-476F-A62B-509229C5D2BD}|CodeFIrstDemo\\CodeFIrstDemo.csproj|c:\\dotnet_training\\daily_codes\\codefirstdemo\\codefirstdemo\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2069F8E-E4AA-476F-A62B-509229C5D2BD}|CodeFIrstDemo\\CodeFIrstDemo.csproj|solutionrelative:codefirstdemo\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2069F8E-E4AA-476F-A62B-509229C5D2BD}|CodeFIrstDemo\\CodeFIrstDemo.csproj|C:\\dotnet_training\\Daily_Codes\\CodeFIrstDemo\\codefirstdemo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2069F8E-E4AA-476F-A62B-509229C5D2BD}|CodeFIrstDemo\\CodeFIrstDemo.csproj|solutionrelative:codefirstdemo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2069F8E-E4AA-476F-A62B-509229C5D2BD}|CodeFIrstDemo\\CodeFIrstDemo.csproj|c:\\dotnet_training\\daily_codes\\codefirstdemo\\codefirstdemo\\ipl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2069F8E-E4AA-476F-A62B-509229C5D2BD}|CodeFIrstDemo\\CodeFIrstDemo.csproj|solutionrelative:codefirstdemo\\ipl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2069F8E-E4AA-476F-A62B-509229C5D2BD}|CodeFIrstDemo\\CodeFIrstDemo.csproj|c:\\dotnet_training\\daily_codes\\codefirstdemo\\codefirstdemo\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{A2069F8E-E4AA-476F-A62B-509229C5D2BD}|CodeFIrstDemo\\CodeFIrstDemo.csproj|C:\\dotnet_training\\Daily_Codes\\CodeFIrstDemo\\codefirstdemo\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A2069F8E-E4AA-476F-A62B-509229C5D2BD}|CodeFIrstDemo\\CodeFIrstDemo.csproj|solutionrelative:codefirstdemo\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2069F8E-E4AA-476F-A62B-509229C5D2BD}|CodeFIrstDemo\\CodeFIrstDemo.csproj|C:\\dotnet_training\\Daily_Codes\\CodeFIrstDemo\\codefirstdemo\\ipl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2069F8E-E4AA-476F-A62B-509229C5D2BD}|CodeFIrstDemo\\CodeFIrstDemo.csproj|solutionrelative:codefirstdemo\\ipl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,30 +50,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "CrudDemo2.cs",
               "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\CodeFIrstDemo\\CodeFIrstDemo\\CrudDemo2.cs",
               "RelativeDocumentMoniker": "CodeFIrstDemo\\CrudDemo2.cs",
-              "ToolTip": "C:\\dotnet_training\\Daily_Codes\\CodeFIrstDemo\\CodeFIrstDemo\\CrudDemo2.cs*",
-              "RelativeToolTip": "CodeFIrstDemo\\CrudDemo2.cs*",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAewBQAAAApAAAAAAAAAA==",
+              "ToolTip": "C:\\dotnet_training\\Daily_Codes\\CodeFIrstDemo\\CodeFIrstDemo\\CrudDemo2.cs",
+              "RelativeToolTip": "CodeFIrstDemo\\CrudDemo2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-15T10:21:38.892Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "202512151010099_InititalCreate.cs",
               "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\CodeFIrstDemo\\CodeFIrstDemo\\Migrations\\202512151010099_InititalCreate.cs",
               "RelativeDocumentMoniker": "CodeFIrstDemo\\Migrations\\202512151010099_InititalCreate.cs",
               "ToolTip": "C:\\dotnet_training\\Daily_Codes\\CodeFIrstDemo\\CodeFIrstDemo\\Migrations\\202512151010099_InititalCreate.cs",
               "RelativeToolTip": "CodeFIrstDemo\\Migrations\\202512151010099_InititalCreate.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBQAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-15T10:10:27.016Z",
               "EditorCaption": ""
@@ -86,27 +90,27 @@
               "RelativeDocumentMoniker": "CodeFIrstDemo\\Migrations\\Configuration.cs",
               "ToolTip": "C:\\dotnet_training\\Daily_Codes\\CodeFIrstDemo\\CodeFIrstDemo\\Migrations\\Configuration.cs",
               "RelativeToolTip": "CodeFIrstDemo\\Migrations\\Configuration.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-15T10:08:46.573Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\CodeFIrstDemo\\CodeFIrstDemo\\Student.cs",
               "RelativeDocumentMoniker": "CodeFIrstDemo\\Student.cs",
               "ToolTip": "C:\\dotnet_training\\Daily_Codes\\CodeFIrstDemo\\CodeFIrstDemo\\Student.cs",
               "RelativeToolTip": "CodeFIrstDemo\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-15T09:44:34.394Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Model1.cs",
               "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\CodeFIrstDemo\\CodeFIrstDemo\\Model1.cs",
               "RelativeDocumentMoniker": "CodeFIrstDemo\\Model1.cs",
@@ -119,20 +123,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "App.config",
               "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\CodeFIrstDemo\\CodeFIrstDemo\\App.config",
               "RelativeDocumentMoniker": "CodeFIrstDemo\\App.config",
               "ToolTip": "C:\\dotnet_training\\Daily_Codes\\CodeFIrstDemo\\CodeFIrstDemo\\App.config",
               "RelativeToolTip": "CodeFIrstDemo\\App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABSAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-12-15T06:08:03.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-15T06:08:03.639Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "packages.config",
               "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\CodeFIrstDemo\\CodeFIrstDemo\\packages.config",
               "RelativeDocumentMoniker": "CodeFIrstDemo\\packages.config",
@@ -140,25 +143,24 @@
               "RelativeToolTip": "CodeFIrstDemo\\packages.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-12-15T06:07:44.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-15T06:07:44.067Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CrudDemo.cs",
               "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\CodeFIrstDemo\\CodeFIrstDemo\\CrudDemo.cs",
               "RelativeDocumentMoniker": "CodeFIrstDemo\\CrudDemo.cs",
               "ToolTip": "C:\\dotnet_training\\Daily_Codes\\CodeFIrstDemo\\CodeFIrstDemo\\CrudDemo.cs",
               "RelativeToolTip": "CodeFIrstDemo\\CrudDemo.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-15T06:03:25.935Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "IPL.cs",
               "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\CodeFIrstDemo\\CodeFIrstDemo\\IPL.cs",
               "RelativeDocumentMoniker": "CodeFIrstDemo\\IPL.cs",
@@ -166,21 +168,19 @@
               "RelativeToolTip": "CodeFIrstDemo\\IPL.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T05:59:03.745Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-15T05:59:03.745Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\CodeFIrstDemo\\CodeFIrstDemo\\Program.cs",
               "RelativeDocumentMoniker": "CodeFIrstDemo\\Program.cs",
               "ToolTip": "C:\\dotnet_training\\Daily_Codes\\CodeFIrstDemo\\CodeFIrstDemo\\Program.cs",
               "RelativeToolTip": "CodeFIrstDemo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBEAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T05:49:32.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-15T05:49:32.692Z"
             }
           ]
         }

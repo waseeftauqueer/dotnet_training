@@ -16,7 +16,7 @@ namespace FirstMVC
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",
-                defaults: new { controller = "Demo", action = "redirectMethod", id = UrlParameter.Optional }
+                defaults: new { controller = "HR", id = UrlParameter.Optional }
             );
         }
     }

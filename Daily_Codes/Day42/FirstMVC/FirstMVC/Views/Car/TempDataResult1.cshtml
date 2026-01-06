@@ -1,0 +1,13 @@
+﻿@using FirstMVC.Models
+@{
+    ViewBag.Title = "TempDataResult1";
+}
+
+<h2>TempDataResult1</h2>
+
+<ul>
+    @foreach (var item in TempData["Cars"] as List<Car>)
+    {
+        <li>@item.Id - @item.Name</li>
+    }
+</ul>

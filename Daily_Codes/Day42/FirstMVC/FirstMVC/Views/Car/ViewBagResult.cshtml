@@ -1,0 +1,10 @@
+﻿@using FirstMVC.Models
+
+<h2>Cars</h2>
+
+<ul>
+    @foreach (Car car in ViewBag.Cars)
+    {
+        <li>@car.Id - @car.Name</li>
+    }
+</ul>

@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dotnet_training\\Daily_Codes\\Day46\\HTML_Helpers_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6206572-3C04-40A7-A91E-B5F5FAF95B77}|HTML_Helpers_Project\\HTML_Helpers_Project.csproj|c:\\dotnet_training\\daily_codes\\day46\\html_helpers_project\\html_helpers_project\\views\\customhelper\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6206572-3C04-40A7-A91E-B5F5FAF95B77}|HTML_Helpers_Project\\HTML_Helpers_Project.csproj|solutionrelative:html_helpers_project\\views\\customhelper\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6206572-3C04-40A7-A91E-B5F5FAF95B77}|HTML_Helpers_Project\\HTML_Helpers_Project.csproj|c:\\dotnet_training\\daily_codes\\day46\\html_helpers_project\\html_helpers_project\\controllers\\customhelpercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6206572-3C04-40A7-A91E-B5F5FAF95B77}|HTML_Helpers_Project\\HTML_Helpers_Project.csproj|solutionrelative:html_helpers_project\\controllers\\customhelpercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6206572-3C04-40A7-A91E-B5F5FAF95B77}|HTML_Helpers_Project\\HTML_Helpers_Project.csproj|c:\\dotnet_training\\daily_codes\\day46\\html_helpers_project\\html_helpers_project\\custom helpers\\customextensionhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6206572-3C04-40A7-A91E-B5F5FAF95B77}|HTML_Helpers_Project\\HTML_Helpers_Project.csproj|solutionrelative:html_helpers_project\\custom helpers\\customextensionhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6206572-3C04-40A7-A91E-B5F5FAF95B77}|HTML_Helpers_Project\\HTML_Helpers_Project.csproj|c:\\dotnet_training\\daily_codes\\day46\\html_helpers_project\\html_helpers_project\\custom helpers\\customstatichelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6206572-3C04-40A7-A91E-B5F5FAF95B77}|HTML_Helpers_Project\\HTML_Helpers_Project.csproj|solutionrelative:html_helpers_project\\custom helpers\\customstatichelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6206572-3C04-40A7-A91E-B5F5FAF95B77}|HTML_Helpers_Project\\HTML_Helpers_Project.csproj|c:\\dotnet_training\\daily_codes\\day46\\html_helpers_project\\html_helpers_project\\views\\student\\studentdisplay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6206572-3C04-40A7-A91E-B5F5FAF95B77}|HTML_Helpers_Project\\HTML_Helpers_Project.csproj|solutionrelative:html_helpers_project\\views\\student\\studentdisplay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6206572-3C04-40A7-A91E-B5F5FAF95B77}|HTML_Helpers_Project\\HTML_Helpers_Project.csproj|c:\\dotnet_training\\daily_codes\\day46\\html_helpers_project\\html_helpers_project\\views\\student\\standardhelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6206572-3C04-40A7-A91E-B5F5FAF95B77}|HTML_Helpers_Project\\HTML_Helpers_Project.csproj|solutionrelative:html_helpers_project\\views\\student\\standardhelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6206572-3C04-40A7-A91E-B5F5FAF95B77}|HTML_Helpers_Project\\HTML_Helpers_Project.csproj|c:\\dotnet_training\\daily_codes\\day46\\html_helpers_project\\html_helpers_project\\views\\student\\templated_helper_ind.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6206572-3C04-40A7-A91E-B5F5FAF95B77}|HTML_Helpers_Project\\HTML_Helpers_Project.csproj|solutionrelative:html_helpers_project\\views\\student\\templated_helper_ind.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6206572-3C04-40A7-A91E-B5F5FAF95B77}|HTML_Helpers_Project\\HTML_Helpers_Project.csproj|c:\\dotnet_training\\daily_codes\\day46\\html_helpers_project\\html_helpers_project\\views\\student\\templateformodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6206572-3C04-40A7-A91E-B5F5FAF95B77}|HTML_Helpers_Project\\HTML_Helpers_Project.csproj|solutionrelative:html_helpers_project\\views\\student\\templateformodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6206572-3C04-40A7-A91E-B5F5FAF95B77}|HTML_Helpers_Project\\HTML_Helpers_Project.csproj|c:\\dotnet_training\\daily_codes\\day46\\html_helpers_project\\html_helpers_project\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6206572-3C04-40A7-A91E-B5F5FAF95B77}|HTML_Helpers_Project\\HTML_Helpers_Project.csproj|solutionrelative:html_helpers_project\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6206572-3C04-40A7-A91E-B5F5FAF95B77}|HTML_Helpers_Project\\HTML_Helpers_Project.csproj|c:\\dotnet_training\\daily_codes\\day46\\html_helpers_project\\html_helpers_project\\views\\student\\strongly_typed_helper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6206572-3C04-40A7-A91E-B5F5FAF95B77}|HTML_Helpers_Project\\HTML_Helpers_Project.csproj|solutionrelative:html_helpers_project\\views\\student\\strongly_typed_helper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6206572-3C04-40A7-A91E-B5F5FAF95B77}|HTML_Helpers_Project\\HTML_Helpers_Project.csproj|c:\\dotnet_training\\daily_codes\\day46\\html_helpers_project\\html_helpers_project\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6206572-3C04-40A7-A91E-B5F5FAF95B77}|HTML_Helpers_Project\\HTML_Helpers_Project.csproj|solutionrelative:html_helpers_project\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\Day46\\HTML_Helpers_Project\\HTML_Helpers_Project\\Views\\CustomHelper\\Index.cshtml",
+              "RelativeDocumentMoniker": "HTML_Helpers_Project\\Views\\CustomHelper\\Index.cshtml",
+              "ToolTip": "C:\\dotnet_training\\Daily_Codes\\Day46\\HTML_Helpers_Project\\HTML_Helpers_Project\\Views\\CustomHelper\\Index.cshtml",
+              "RelativeToolTip": "HTML_Helpers_Project\\Views\\CustomHelper\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T12:50:11.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomHelperController.cs",
+              "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\Day46\\HTML_Helpers_Project\\HTML_Helpers_Project\\Controllers\\CustomHelperController.cs",
+              "RelativeDocumentMoniker": "HTML_Helpers_Project\\Controllers\\CustomHelperController.cs",
+              "ToolTip": "C:\\dotnet_training\\Daily_Codes\\Day46\\HTML_Helpers_Project\\HTML_Helpers_Project\\Controllers\\CustomHelperController.cs",
+              "RelativeToolTip": "HTML_Helpers_Project\\Controllers\\CustomHelperController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T12:49:14.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomExtensionHelpers.cs",
+              "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\Day46\\HTML_Helpers_Project\\HTML_Helpers_Project\\Custom Helpers\\CustomExtensionHelpers.cs",
+              "RelativeDocumentMoniker": "HTML_Helpers_Project\\Custom Helpers\\CustomExtensionHelpers.cs",
+              "ToolTip": "C:\\dotnet_training\\Daily_Codes\\Day46\\HTML_Helpers_Project\\HTML_Helpers_Project\\Custom Helpers\\CustomExtensionHelpers.cs",
+              "RelativeToolTip": "HTML_Helpers_Project\\Custom Helpers\\CustomExtensionHelpers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T12:44:03.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomStaticHelper.cs",
+              "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\Day46\\HTML_Helpers_Project\\HTML_Helpers_Project\\Custom Helpers\\CustomStaticHelper.cs",
+              "RelativeDocumentMoniker": "HTML_Helpers_Project\\Custom Helpers\\CustomStaticHelper.cs",
+              "ToolTip": "C:\\dotnet_training\\Daily_Codes\\Day46\\HTML_Helpers_Project\\HTML_Helpers_Project\\Custom Helpers\\CustomStaticHelper.cs",
+              "RelativeToolTip": "HTML_Helpers_Project\\Custom Helpers\\CustomStaticHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T12:36:18.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StandardHelper.cshtml",
+              "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\Day46\\HTML_Helpers_Project\\HTML_Helpers_Project\\Views\\Student\\StandardHelper.cshtml",
+              "RelativeDocumentMoniker": "HTML_Helpers_Project\\Views\\Student\\StandardHelper.cshtml",
+              "ToolTip": "C:\\dotnet_training\\Daily_Codes\\Day46\\HTML_Helpers_Project\\HTML_Helpers_Project\\Views\\Student\\StandardHelper.cshtml",
+              "RelativeToolTip": "HTML_Helpers_Project\\Views\\Student\\StandardHelper.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwCoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T12:16:35.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentDisplay.cshtml",
+              "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\Day46\\HTML_Helpers_Project\\HTML_Helpers_Project\\Views\\Student\\StudentDisplay.cshtml",
+              "RelativeDocumentMoniker": "HTML_Helpers_Project\\Views\\Student\\StudentDisplay.cshtml",
+              "ToolTip": "C:\\dotnet_training\\Daily_Codes\\Day46\\HTML_Helpers_Project\\HTML_Helpers_Project\\Views\\Student\\StudentDisplay.cshtml",
+              "RelativeToolTip": "HTML_Helpers_Project\\Views\\Student\\StudentDisplay.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T12:16:25.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TemplateForModel.cshtml",
+              "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\Day46\\HTML_Helpers_Project\\HTML_Helpers_Project\\Views\\Student\\TemplateForModel.cshtml",
+              "RelativeDocumentMoniker": "HTML_Helpers_Project\\Views\\Student\\TemplateForModel.cshtml",
+              "ToolTip": "C:\\dotnet_training\\Daily_Codes\\Day46\\HTML_Helpers_Project\\HTML_Helpers_Project\\Views\\Student\\TemplateForModel.cshtml",
+              "RelativeToolTip": "HTML_Helpers_Project\\Views\\Student\\TemplateForModel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T12:16:15.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Templated_Helper_Ind.cshtml",
+              "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\Day46\\HTML_Helpers_Project\\HTML_Helpers_Project\\Views\\Student\\Templated_Helper_Ind.cshtml",
+              "RelativeDocumentMoniker": "HTML_Helpers_Project\\Views\\Student\\Templated_Helper_Ind.cshtml",
+              "ToolTip": "C:\\dotnet_training\\Daily_Codes\\Day46\\HTML_Helpers_Project\\HTML_Helpers_Project\\Views\\Student\\Templated_Helper_Ind.cshtml",
+              "RelativeToolTip": "HTML_Helpers_Project\\Views\\Student\\Templated_Helper_Ind.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T10:40:45.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Strongly_Typed_Helper.cshtml",
+              "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\Day46\\HTML_Helpers_Project\\HTML_Helpers_Project\\Views\\Student\\Strongly_Typed_Helper.cshtml",
+              "RelativeDocumentMoniker": "HTML_Helpers_Project\\Views\\Student\\Strongly_Typed_Helper.cshtml",
+              "ToolTip": "C:\\dotnet_training\\Daily_Codes\\Day46\\HTML_Helpers_Project\\HTML_Helpers_Project\\Views\\Student\\Strongly_Typed_Helper.cshtml",
+              "RelativeToolTip": "HTML_Helpers_Project\\Views\\Student\\Strongly_Typed_Helper.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T10:22:37.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\Day46\\HTML_Helpers_Project\\HTML_Helpers_Project\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "HTML_Helpers_Project\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\dotnet_training\\Daily_Codes\\Day46\\HTML_Helpers_Project\\HTML_Helpers_Project\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "HTML_Helpers_Project\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAwC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T10:21:41.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\dotnet_training\\Daily_Codes\\Day46\\HTML_Helpers_Project\\HTML_Helpers_Project\\Models\\Students.cs",
+              "RelativeDocumentMoniker": "HTML_Helpers_Project\\Models\\Students.cs",
+              "ToolTip": "C:\\dotnet_training\\Daily_Codes\\Day46\\HTML_Helpers_Project\\HTML_Helpers_Project\\Models\\Students.cs",
+              "RelativeToolTip": "HTML_Helpers_Project\\Models\\Students.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T10:09:45.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
