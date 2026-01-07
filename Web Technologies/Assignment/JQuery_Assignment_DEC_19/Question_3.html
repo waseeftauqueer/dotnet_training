@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="jquery.js"></script>
+</head>
+<style>
+    img {
+        width: 200px;
+        height: auto;
+    }
+</style>
+<body>
+
+    <img id="img1" src="images/2-2-sunglasses-picture.png" alt="Image 1" style="border: solid 3px black;">
+
+    <br><br>
+
+    <button id="button">Change Image</button>
+
+
+    <script>
+        $("#button").click(function(){
+            $("#img1").attr("src", "images/hoodie.jpg");
+        });
+    </script>
+</body>
+</html>

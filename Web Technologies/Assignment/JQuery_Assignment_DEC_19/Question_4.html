@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <script src="jquery.js"></script>
+
+    <style>
+        input[type="text"] {
+            margin: 5px 0;
+            padding: 5px;
+        }
+    </style>
+</head>
+<body>
+
+    <input type="text">
+    <input type="text">
+    <input type="text">
+
+    <br><br>
+    <button id="button">Change Color</button>
+    <script>
+        $("#button").click(function() {
+            $("input[type='text']").css({"background-color":"blue", "color":"white"});
+        });
+    </script>
+
+</body>
+</html>

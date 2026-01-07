@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="jquery.js"></script>
+</head>
+<style>
+    input[type="text"] {
+        padding: 5px;
+        margin: 5px 0;
+        border: 3px solid black;
+    }
+</style>
+<body>
+    <input type="text" placeholder="Textbox" id="t1">
+
+    <script>
+        $("#t1").focus(function() {
+            $(this).css({"background-color": "black","border": "3px solid #ff0000"});
+        }).blur(function() {
+            $(this).css({"background-color": "","border-color": "#000"});
+        });
+    </script>
+</body>
+</html>

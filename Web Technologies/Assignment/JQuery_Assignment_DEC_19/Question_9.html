@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>jQuery Element Counter</title>
+    <script src="jquery.js"></script>
+</head>
+<body>
+
+    <div>
+        <h1>Heading 1</h1>
+        <p>Paragraph 1 inside div</p>
+    </div>
+
+    <div>
+        <h1>Heading 2</h1>
+        <p>Paragraph 2 inside div</p>
+        <p>Paragraph 3 inside div</p>
+    </div>
+
+    <h1>Heading 3 outside div</h1>
+    <p>Paragraph 4 outside div</p>
+
+    <script>
+        $(document).ready(function() {
+            var c1 = $('h1').length;
+            var c2 = $('div').length;
+            var c3 = $('p').length;
+            $('body').append('<p>Number of H1 elements: ' + c1 + '</p>');
+            $('body').append('<p>Number of Div elements: ' + c2 + '</p>');
+            $('body').append('<p>Number of Paragraphs: ' + c3 + '</p>');
+        });
+    </script>
+</body>
+</html>

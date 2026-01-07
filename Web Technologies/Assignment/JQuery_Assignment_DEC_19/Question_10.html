@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script src="jquery.js"></script>
+</head>
+<body>
+
+    <h2>Change Image Height and Width</h2>
+    <img id="myImage" src="images/hoodie.jpg" height="150" width="150" alt="Sample Image">
+
+    <br><br>
+    <button id="changeSize">Change Image Size</button>
+
+    <script>
+        $(document).ready(function () {
+            $('#changeSize').click(function () {
+                $('#myImage').attr({
+                    height: '300',
+                    width: '300'
+                });
+            });
+        });
+    </script>
+
+</body>
+</html>
