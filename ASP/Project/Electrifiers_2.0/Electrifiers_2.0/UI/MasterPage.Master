@@ -1,0 +1,34 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="Electrifiers_2._0.UI.MasterPage" %>
+
+<!DOCTYPE html>
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <title>Electricity Board Billing System</title>
+    <link rel="stylesheet" href="Content/Site.css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="header">
+            <h1>Electricity Board Billing System</h1>
+            <asp:Label ID="lblUser" runat="server" Text=""></asp:Label>
+        </div>
+
+        <div class="navbar">
+            <asp:HyperLink ID="lnkDashboard" runat="server" NavigateUrl="~/UI/Dashboard.aspx">Dashboard</asp:HyperLink>
+            <asp:HyperLink ID="lnkAddBill" runat="server" NavigateUrl="~/UI/AddBill.aspx">Add Bill</asp:HyperLink>
+            <asp:HyperLink ID="lnkViewBills" runat="server" NavigateUrl="~/UI/ViewBills.aspx">View Bills</asp:HyperLink>
+            <asp:LinkButton ID="lnkLogout" runat="server" OnClick="lnkLogout_Click" CssClass="link-button">Logout</asp:LinkButton>
+        </div>
+
+        <div class="content">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+
+        <div class="footer">
+            2026 Electricity Board.
+        </div>
+    </form>
+</body>
+</html>
