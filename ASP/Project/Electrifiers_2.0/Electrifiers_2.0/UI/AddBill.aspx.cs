@@ -10,9 +10,7 @@ namespace Electrifiers_2._0.UI
         private BillValidator validator = new BillValidator();
 
         protected void Page_Load(object sender, EventArgs e)
-        {
-            // Removed security check for session and login
-            // Now no redirect to login page, as authentication is removed.
+        { 
 
             if (!IsPostBack)
             {
@@ -72,13 +70,13 @@ namespace Electrifiers_2._0.UI
                 lblMsg.ForeColor = System.Drawing.Color.Green;
                 lblMsg.Text = $"Bill added successfully! Amount: {bill.BillAmount}";
             }
-            catch (FormatException fex)
+            catch (FormatException ex)
             {
-                lblMsg.Text = fex.Message;
+                lblMsg.Text = ex.Message;
             }
-            catch (ArgumentException aex)
+            catch (ArgumentException ex)
             {
-                lblMsg.Text = aex.Message;
+                lblMsg.Text = ex.Message;
             }
             catch (Exception ex)
             {

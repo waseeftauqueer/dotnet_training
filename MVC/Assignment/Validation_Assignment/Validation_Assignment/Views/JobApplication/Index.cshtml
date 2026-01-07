@@ -1,0 +1,65 @@
+﻿@model Validation_Assignment.Models.JobApplication
+@using System.Web.Mvc
+
+<h2 style="color:blue; text-align:center;">Job Application Form</h2>
+<br />
+<h3>Status of Your application : @ViewBag.Result</h3>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <table>
+        <tr>
+            <td>
+                @Html.LabelFor(m => m.Name)
+                <br />
+                @Html.EditorFor(m => m.Name)
+                <br />
+                @Html.ValidationMessageFor(m => m.Name)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @Html.LabelFor(m => m.Email)
+                <br />
+                @Html.EditorFor(m => m.Email)
+                <br />
+                @Html.ValidationMessageFor(m => m.Email)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @Html.LabelFor(m => m.Password)
+                <br />
+                @Html.PasswordFor(m => m.Password)
+                <br />
+                @Html.ValidationMessageFor(m => m.Password)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @Html.LabelFor(m => m.BirthDate)
+                <br />
+                @Html.EditorFor(m => m.BirthDate)
+                <br />
+                @Html.ValidationMessageFor(m => m.BirthDate)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @Html.LabelFor(m => m.DOJ)
+                <br />
+                @Html.EditorFor(m => m.DOJ)
+                <br />
+                @Html.ValidationMessageFor(m => m.DOJ)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <br />
+                <button type="submit">Submit</button>
+            </td>
+        </tr>
+    </table>
+}

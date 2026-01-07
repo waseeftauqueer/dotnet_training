@@ -1,30 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\dotnet_training\\Personal Projects\\Electrifiers_2.0\\",
+  "WorkspaceRootPath": "C:\\dotnet_training_personal\\Personal Projects\\Electrifiers_2.0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F0756B3-2013-4817-A3DA-48CF2767DAF3}|Electrifiers_2.0\\Electrifiers_2.0.csproj|c:\\dotnet_training\\personal projects\\electrifiers_2.0\\electrifiers_2.0\\ui\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{4F0756B3-2013-4817-A3DA-48CF2767DAF3}|Electrifiers_2.0\\Electrifiers_2.0.csproj|solutionrelative:electrifiers_2.0\\ui\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{4F0756B3-2013-4817-A3DA-48CF2767DAF3}|Electrifiers_2.0\\Electrifiers_2.0.csproj|c:\\dotnet_training_personal\\personal projects\\electrifiers_2.0\\electrifiers_2.0\\models\\electricitybill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0756B3-2013-4817-A3DA-48CF2767DAF3}|Electrifiers_2.0\\Electrifiers_2.0.csproj|solutionrelative:electrifiers_2.0\\models\\electricitybill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F0756B3-2013-4817-A3DA-48CF2767DAF3}|Electrifiers_2.0\\Electrifiers_2.0.csproj|c:\\dotnet_training\\personal projects\\electrifiers_2.0\\electrifiers_2.0\\ui\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{4F0756B3-2013-4817-A3DA-48CF2767DAF3}|Electrifiers_2.0\\Electrifiers_2.0.csproj|solutionrelative:electrifiers_2.0\\ui\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{4F0756B3-2013-4817-A3DA-48CF2767DAF3}|Electrifiers_2.0\\Electrifiers_2.0.csproj|c:\\dotnet_training_personal\\personal projects\\electrifiers_2.0\\electrifiers_2.0\\bll\\electricityboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0756B3-2013-4817-A3DA-48CF2767DAF3}|Electrifiers_2.0\\Electrifiers_2.0.csproj|solutionrelative:electrifiers_2.0\\bll\\electricityboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F0756B3-2013-4817-A3DA-48CF2767DAF3}|Electrifiers_2.0\\Electrifiers_2.0.csproj|c:\\dotnet_training\\personal projects\\electrifiers_2.0\\electrifiers_2.0\\ui\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "AbsoluteMoniker": "D:0:0:{4F0756B3-2013-4817-A3DA-48CF2767DAF3}|Electrifiers_2.0\\Electrifiers_2.0.csproj|c:\\dotnet_training_personal\\personal projects\\electrifiers_2.0\\electrifiers_2.0\\bll\\billvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0756B3-2013-4817-A3DA-48CF2767DAF3}|Electrifiers_2.0\\Electrifiers_2.0.csproj|solutionrelative:electrifiers_2.0\\bll\\billvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0756B3-2013-4817-A3DA-48CF2767DAF3}|Electrifiers_2.0\\Electrifiers_2.0.csproj|C:\\dotnet_training_personal\\Personal Projects\\Electrifiers_2.0\\electrifiers_2.0\\ui\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{4F0756B3-2013-4817-A3DA-48CF2767DAF3}|Electrifiers_2.0\\Electrifiers_2.0.csproj|solutionrelative:electrifiers_2.0\\ui\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F0756B3-2013-4817-A3DA-48CF2767DAF3}|Electrifiers_2.0\\Electrifiers_2.0.csproj|C:\\dotnet_training\\Personal Projects\\Electrifiers_2.0\\electrifiers_2.0\\ui\\viewbills.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{4F0756B3-2013-4817-A3DA-48CF2767DAF3}|Electrifiers_2.0\\Electrifiers_2.0.csproj|c:\\dotnet_training_personal\\personal projects\\electrifiers_2.0\\electrifiers_2.0\\ui\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4F0756B3-2013-4817-A3DA-48CF2767DAF3}|Electrifiers_2.0\\Electrifiers_2.0.csproj|solutionrelative:electrifiers_2.0\\ui\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0756B3-2013-4817-A3DA-48CF2767DAF3}|Electrifiers_2.0\\Electrifiers_2.0.csproj|C:\\dotnet_training_personal\\Personal Projects\\Electrifiers_2.0\\electrifiers_2.0\\ui\\viewbills.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{4F0756B3-2013-4817-A3DA-48CF2767DAF3}|Electrifiers_2.0\\Electrifiers_2.0.csproj|solutionrelative:electrifiers_2.0\\ui\\viewbills.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F0756B3-2013-4817-A3DA-48CF2767DAF3}|Electrifiers_2.0\\Electrifiers_2.0.csproj|C:\\dotnet_training\\Personal Projects\\Electrifiers_2.0\\electrifiers_2.0\\ui\\addbill.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{4F0756B3-2013-4817-A3DA-48CF2767DAF3}|Electrifiers_2.0\\Electrifiers_2.0.csproj|C:\\dotnet_training_personal\\Personal Projects\\Electrifiers_2.0\\electrifiers_2.0\\ui\\addbill.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{4F0756B3-2013-4817-A3DA-48CF2767DAF3}|Electrifiers_2.0\\Electrifiers_2.0.csproj|solutionrelative:electrifiers_2.0\\ui\\addbill.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F0756B3-2013-4817-A3DA-48CF2767DAF3}|Electrifiers_2.0\\Electrifiers_2.0.csproj|C:\\dotnet_training\\Personal Projects\\Electrifiers_2.0\\electrifiers_2.0\\ui\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{4F0756B3-2013-4817-A3DA-48CF2767DAF3}|Electrifiers_2.0\\Electrifiers_2.0.csproj|C:\\dotnet_training_personal\\Personal Projects\\Electrifiers_2.0\\electrifiers_2.0\\ui\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{4F0756B3-2013-4817-A3DA-48CF2767DAF3}|Electrifiers_2.0\\Electrifiers_2.0.csproj|solutionrelative:electrifiers_2.0\\ui\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0756B3-2013-4817-A3DA-48CF2767DAF3}|Electrifiers_2.0\\Electrifiers_2.0.csproj|C:\\dotnet_training_personal\\Personal Projects\\Electrifiers_2.0\\electrifiers_2.0\\ui\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4F0756B3-2013-4817-A3DA-48CF2767DAF3}|Electrifiers_2.0\\Electrifiers_2.0.csproj|solutionrelative:electrifiers_2.0\\ui\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,11 +54,50 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ElectricityBill.cs",
+              "DocumentMoniker": "C:\\dotnet_training_personal\\Personal Projects\\Electrifiers_2.0\\Electrifiers_2.0\\Models\\ElectricityBill.cs",
+              "RelativeDocumentMoniker": "Electrifiers_2.0\\Models\\ElectricityBill.cs",
+              "ToolTip": "C:\\dotnet_training_personal\\Personal Projects\\Electrifiers_2.0\\Electrifiers_2.0\\Models\\ElectricityBill.cs",
+              "RelativeToolTip": "Electrifiers_2.0\\Models\\ElectricityBill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T07:24:01.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ElectricityBoard.cs",
+              "DocumentMoniker": "C:\\dotnet_training_personal\\Personal Projects\\Electrifiers_2.0\\Electrifiers_2.0\\BLL\\ElectricityBoard.cs",
+              "RelativeDocumentMoniker": "Electrifiers_2.0\\BLL\\ElectricityBoard.cs",
+              "ToolTip": "C:\\dotnet_training_personal\\Personal Projects\\Electrifiers_2.0\\Electrifiers_2.0\\BLL\\ElectricityBoard.cs",
+              "RelativeToolTip": "Electrifiers_2.0\\BLL\\ElectricityBoard.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T07:23:49.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BillValidator.cs",
+              "DocumentMoniker": "C:\\dotnet_training_personal\\Personal Projects\\Electrifiers_2.0\\Electrifiers_2.0\\BLL\\BillValidator.cs",
+              "RelativeDocumentMoniker": "Electrifiers_2.0\\BLL\\BillValidator.cs",
+              "ToolTip": "C:\\dotnet_training_personal\\Personal Projects\\Electrifiers_2.0\\Electrifiers_2.0\\BLL\\BillValidator.cs",
+              "RelativeToolTip": "Electrifiers_2.0\\BLL\\BillValidator.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T07:23:44.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Default.aspx",
-              "DocumentMoniker": "C:\\dotnet_training\\Personal Projects\\Electrifiers_2.0\\Electrifiers_2.0\\UI\\Default.aspx",
+              "DocumentMoniker": "C:\\dotnet_training_personal\\Personal Projects\\Electrifiers_2.0\\Electrifiers_2.0\\UI\\Default.aspx",
               "RelativeDocumentMoniker": "Electrifiers_2.0\\UI\\Default.aspx",
-              "ToolTip": "C:\\dotnet_training\\Personal Projects\\Electrifiers_2.0\\Electrifiers_2.0\\UI\\Default.aspx",
+              "ToolTip": "C:\\dotnet_training_personal\\Personal Projects\\Electrifiers_2.0\\Electrifiers_2.0\\UI\\Default.aspx",
               "RelativeToolTip": "Electrifiers_2.0\\UI\\Default.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -55,11 +106,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MasterPage.Master",
-              "DocumentMoniker": "C:\\dotnet_training\\Personal Projects\\Electrifiers_2.0\\Electrifiers_2.0\\UI\\MasterPage.Master",
+              "DocumentMoniker": "C:\\dotnet_training_personal\\Personal Projects\\Electrifiers_2.0\\Electrifiers_2.0\\UI\\MasterPage.Master",
               "RelativeDocumentMoniker": "Electrifiers_2.0\\UI\\MasterPage.Master",
-              "ToolTip": "C:\\dotnet_training\\Personal Projects\\Electrifiers_2.0\\Electrifiers_2.0\\UI\\MasterPage.Master",
+              "ToolTip": "C:\\dotnet_training_personal\\Personal Projects\\Electrifiers_2.0\\Electrifiers_2.0\\UI\\MasterPage.Master",
               "RelativeToolTip": "Electrifiers_2.0\\UI\\MasterPage.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -68,11 +119,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Login.aspx",
-              "DocumentMoniker": "C:\\dotnet_training\\Personal Projects\\Electrifiers_2.0\\Electrifiers_2.0\\UI\\Login.aspx",
+              "DocumentMoniker": "C:\\dotnet_training_personal\\Personal Projects\\Electrifiers_2.0\\Electrifiers_2.0\\UI\\Login.aspx",
               "RelativeDocumentMoniker": "Electrifiers_2.0\\UI\\Login.aspx",
-              "ToolTip": "C:\\dotnet_training\\Personal Projects\\Electrifiers_2.0\\Electrifiers_2.0\\UI\\Login.aspx",
+              "ToolTip": "C:\\dotnet_training_personal\\Personal Projects\\Electrifiers_2.0\\Electrifiers_2.0\\UI\\Login.aspx",
               "RelativeToolTip": "Electrifiers_2.0\\UI\\Login.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -81,11 +132,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ViewBills.aspx",
-              "DocumentMoniker": "C:\\dotnet_training\\Personal Projects\\Electrifiers_2.0\\Electrifiers_2.0\\UI\\ViewBills.aspx",
+              "DocumentMoniker": "C:\\dotnet_training_personal\\Personal Projects\\Electrifiers_2.0\\Electrifiers_2.0\\UI\\ViewBills.aspx",
               "RelativeDocumentMoniker": "Electrifiers_2.0\\UI\\ViewBills.aspx",
-              "ToolTip": "C:\\dotnet_training\\Personal Projects\\Electrifiers_2.0\\Electrifiers_2.0\\UI\\ViewBills.aspx",
+              "ToolTip": "C:\\dotnet_training_personal\\Personal Projects\\Electrifiers_2.0\\Electrifiers_2.0\\UI\\ViewBills.aspx",
               "RelativeToolTip": "Electrifiers_2.0\\UI\\ViewBills.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -94,11 +145,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "AddBill.aspx",
-              "DocumentMoniker": "C:\\dotnet_training\\Personal Projects\\Electrifiers_2.0\\Electrifiers_2.0\\UI\\AddBill.aspx",
+              "DocumentMoniker": "C:\\dotnet_training_personal\\Personal Projects\\Electrifiers_2.0\\Electrifiers_2.0\\UI\\AddBill.aspx",
               "RelativeDocumentMoniker": "Electrifiers_2.0\\UI\\AddBill.aspx",
-              "ToolTip": "C:\\dotnet_training\\Personal Projects\\Electrifiers_2.0\\Electrifiers_2.0\\UI\\AddBill.aspx",
+              "ToolTip": "C:\\dotnet_training_personal\\Personal Projects\\Electrifiers_2.0\\Electrifiers_2.0\\UI\\AddBill.aspx",
               "RelativeToolTip": "Electrifiers_2.0\\UI\\AddBill.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -107,11 +158,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Dashboard.aspx",
-              "DocumentMoniker": "C:\\dotnet_training\\Personal Projects\\Electrifiers_2.0\\Electrifiers_2.0\\UI\\Dashboard.aspx",
+              "DocumentMoniker": "C:\\dotnet_training_personal\\Personal Projects\\Electrifiers_2.0\\Electrifiers_2.0\\UI\\Dashboard.aspx",
               "RelativeDocumentMoniker": "Electrifiers_2.0\\UI\\Dashboard.aspx",
-              "ToolTip": "C:\\dotnet_training\\Personal Projects\\Electrifiers_2.0\\Electrifiers_2.0\\UI\\Dashboard.aspx",
+              "ToolTip": "C:\\dotnet_training_personal\\Personal Projects\\Electrifiers_2.0\\Electrifiers_2.0\\UI\\Dashboard.aspx",
               "RelativeToolTip": "Electrifiers_2.0\\UI\\Dashboard.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
