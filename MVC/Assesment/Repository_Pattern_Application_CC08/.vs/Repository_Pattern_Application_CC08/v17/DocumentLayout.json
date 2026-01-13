@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dotnet_training\\MVC\\Assesment\\Repository_Pattern_Application_CC08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A20F795-6A61-4F55-8B8F-C5D4AC1653D0}|Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08.csproj|c:\\dotnet_training\\mvc\\assesment\\repository_pattern_application_cc08\\repository_pattern_application_cc08\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2A20F795-6A61-4F55-8B8F-C5D4AC1653D0}|Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08.csproj|solutionrelative:repository_pattern_application_cc08\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A20F795-6A61-4F55-8B8F-C5D4AC1653D0}|Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08.csproj|c:\\dotnet_training\\mvc\\assesment\\repository_pattern_application_cc08\\repository_pattern_application_cc08\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A20F795-6A61-4F55-8B8F-C5D4AC1653D0}|Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08.csproj|solutionrelative:repository_pattern_application_cc08\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A20F795-6A61-4F55-8B8F-C5D4AC1653D0}|Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08.csproj|c:\\dotnet_training\\mvc\\assesment\\repository_pattern_application_cc08\\repository_pattern_application_cc08\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A20F795-6A61-4F55-8B8F-C5D4AC1653D0}|Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08.csproj|solutionrelative:repository_pattern_application_cc08\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A20F795-6A61-4F55-8B8F-C5D4AC1653D0}|Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08.csproj|c:\\dotnet_training\\mvc\\assesment\\repository_pattern_application_cc08\\repository_pattern_application_cc08\\views\\movies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A20F795-6A61-4F55-8B8F-C5D4AC1653D0}|Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08.csproj|solutionrelative:repository_pattern_application_cc08\\views\\movies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A20F795-6A61-4F55-8B8F-C5D4AC1653D0}|Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08.csproj|c:\\dotnet_training\\mvc\\assesment\\repository_pattern_application_cc08\\repository_pattern_application_cc08\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A20F795-6A61-4F55-8B8F-C5D4AC1653D0}|Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08.csproj|solutionrelative:repository_pattern_application_cc08\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A20F795-6A61-4F55-8B8F-C5D4AC1653D0}|Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08.csproj|c:\\dotnet_training\\mvc\\assesment\\repository_pattern_application_cc08\\repository_pattern_application_cc08\\views\\movies\\moviesbyyear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A20F795-6A61-4F55-8B8F-C5D4AC1653D0}|Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08.csproj|solutionrelative:repository_pattern_application_cc08\\views\\movies\\moviesbyyear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A20F795-6A61-4F55-8B8F-C5D4AC1653D0}|Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08.csproj|c:\\dotnet_training\\mvc\\assesment\\repository_pattern_application_cc08\\repository_pattern_application_cc08\\repository\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A20F795-6A61-4F55-8B8F-C5D4AC1653D0}|Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08.csproj|solutionrelative:repository_pattern_application_cc08\\repository\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A20F795-6A61-4F55-8B8F-C5D4AC1653D0}|Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08.csproj|c:\\dotnet_training\\mvc\\assesment\\repository_pattern_application_cc08\\repository_pattern_application_cc08\\views\\movies\\moviesbydirector.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A20F795-6A61-4F55-8B8F-C5D4AC1653D0}|Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08.csproj|solutionrelative:repository_pattern_application_cc08\\views\\movies\\moviesbydirector.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A20F795-6A61-4F55-8B8F-C5D4AC1653D0}|Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08.csproj|c:\\dotnet_training\\mvc\\assesment\\repository_pattern_application_cc08\\repository_pattern_application_cc08\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A20F795-6A61-4F55-8B8F-C5D4AC1653D0}|Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08.csproj|solutionrelative:repository_pattern_application_cc08\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A20F795-6A61-4F55-8B8F-C5D4AC1653D0}|Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08.csproj|c:\\dotnet_training\\mvc\\assesment\\repository_pattern_application_cc08\\repository_pattern_application_cc08\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A20F795-6A61-4F55-8B8F-C5D4AC1653D0}|Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08.csproj|solutionrelative:repository_pattern_application_cc08\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A20F795-6A61-4F55-8B8F-C5D4AC1653D0}|Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08.csproj|c:\\dotnet_training\\mvc\\assesment\\repository_pattern_application_cc08\\repository_pattern_application_cc08\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A20F795-6A61-4F55-8B8F-C5D4AC1653D0}|Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08.csproj|solutionrelative:repository_pattern_application_cc08\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A20F795-6A61-4F55-8B8F-C5D4AC1653D0}|Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08.csproj|c:\\dotnet_training\\mvc\\assesment\\repository_pattern_application_cc08\\repository_pattern_application_cc08\\models\\moviescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A20F795-6A61-4F55-8B8F-C5D4AC1653D0}|Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08.csproj|solutionrelative:repository_pattern_application_cc08\\models\\moviescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MoviesByYear.cshtml",
+              "DocumentMoniker": "C:\\dotnet_training\\MVC\\Assesment\\Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08\\Views\\Movies\\MoviesByYear.cshtml",
+              "RelativeDocumentMoniker": "Repository_Pattern_Application_CC08\\Views\\Movies\\MoviesByYear.cshtml",
+              "ToolTip": "C:\\dotnet_training\\MVC\\Assesment\\Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08\\Views\\Movies\\MoviesByYear.cshtml",
+              "RelativeToolTip": "Repository_Pattern_Application_CC08\\Views\\Movies\\MoviesByYear.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T05:46:16.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\dotnet_training\\MVC\\Assesment\\Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08\\Views\\Movies\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Repository_Pattern_Application_CC08\\Views\\Movies\\Delete.cshtml",
+              "ToolTip": "C:\\dotnet_training\\MVC\\Assesment\\Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08\\Views\\Movies\\Delete.cshtml",
+              "RelativeToolTip": "Repository_Pattern_Application_CC08\\Views\\Movies\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T05:43:21.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\dotnet_training\\MVC\\Assesment\\Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08\\Views\\Movies\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Repository_Pattern_Application_CC08\\Views\\Movies\\Edit.cshtml",
+              "ToolTip": "C:\\dotnet_training\\MVC\\Assesment\\Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08\\Views\\Movies\\Edit.cshtml",
+              "RelativeToolTip": "Repository_Pattern_Application_CC08\\Views\\Movies\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T05:42:54.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\dotnet_training\\MVC\\Assesment\\Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08\\Views\\Movies\\Create.cshtml",
+              "RelativeDocumentMoniker": "Repository_Pattern_Application_CC08\\Views\\Movies\\Create.cshtml",
+              "ToolTip": "C:\\dotnet_training\\MVC\\Assesment\\Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08\\Views\\Movies\\Create.cshtml",
+              "RelativeToolTip": "Repository_Pattern_Application_CC08\\Views\\Movies\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T05:42:26.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\dotnet_training\\MVC\\Assesment\\Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "Repository_Pattern_Application_CC08\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\dotnet_training\\MVC\\Assesment\\Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "Repository_Pattern_Application_CC08\\Views\\Movies\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T05:41:58.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MoviesByDirector.cshtml",
+              "DocumentMoniker": "C:\\dotnet_training\\MVC\\Assesment\\Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08\\Views\\Movies\\MoviesByDirector.cshtml",
+              "RelativeDocumentMoniker": "Repository_Pattern_Application_CC08\\Views\\Movies\\MoviesByDirector.cshtml",
+              "ToolTip": "C:\\dotnet_training\\MVC\\Assesment\\Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08\\Views\\Movies\\MoviesByDirector.cshtml",
+              "RelativeToolTip": "Repository_Pattern_Application_CC08\\Views\\Movies\\MoviesByDirector.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T05:38:11.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\dotnet_training\\MVC\\Assesment\\Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Repository_Pattern_Application_CC08\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\dotnet_training\\MVC\\Assesment\\Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Repository_Pattern_Application_CC08\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T05:30:26.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\dotnet_training\\MVC\\Assesment\\Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08\\Repository\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "Repository_Pattern_Application_CC08\\Repository\\MovieRepository.cs",
+              "ToolTip": "C:\\dotnet_training\\MVC\\Assesment\\Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08\\Repository\\MovieRepository.cs",
+              "RelativeToolTip": "Repository_Pattern_Application_CC08\\Repository\\MovieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T05:20:12.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "C:\\dotnet_training\\MVC\\Assesment\\Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08\\Repository\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "Repository_Pattern_Application_CC08\\Repository\\IMovieRepository.cs",
+              "ToolTip": "C:\\dotnet_training\\MVC\\Assesment\\Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08\\Repository\\IMovieRepository.cs",
+              "RelativeToolTip": "Repository_Pattern_Application_CC08\\Repository\\IMovieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T05:18:25.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\dotnet_training\\MVC\\Assesment\\Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08\\Web.config",
+              "RelativeDocumentMoniker": "Repository_Pattern_Application_CC08\\Web.config",
+              "ToolTip": "C:\\dotnet_training\\MVC\\Assesment\\Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08\\Web.config",
+              "RelativeToolTip": "Repository_Pattern_Application_CC08\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-13T05:16:26.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MoviesContext.cs",
+              "DocumentMoniker": "C:\\dotnet_training\\MVC\\Assesment\\Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08\\Models\\MoviesContext.cs",
+              "RelativeDocumentMoniker": "Repository_Pattern_Application_CC08\\Models\\MoviesContext.cs",
+              "ToolTip": "C:\\dotnet_training\\MVC\\Assesment\\Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08\\Models\\MoviesContext.cs",
+              "RelativeToolTip": "Repository_Pattern_Application_CC08\\Models\\MoviesContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T05:13:55.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\dotnet_training\\MVC\\Assesment\\Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Repository_Pattern_Application_CC08\\Models\\Movie.cs",
+              "ToolTip": "C:\\dotnet_training\\MVC\\Assesment\\Repository_Pattern_Application_CC08\\Repository_Pattern_Application_CC08\\Models\\Movie.cs",
+              "RelativeToolTip": "Repository_Pattern_Application_CC08\\Models\\Movie.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T05:10:31.986Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+﻿@model IEnumerable<MVC_Application_CC08.Models.Customer>
+
+@{
+    ViewBag.Title = "Customers by Country";
+}
+
+<h2>Customers by Country</h2>
+
+@using (Html.BeginForm())
+{
+    <label>Enter Country:</label>
+    <input type="text" name="country" required />
+    <input type="submit" value="Search" />
+}
+@if (ViewBag.Message != null)
+{
+    <p style="color:red">@ViewBag.Message</p>
+}
+
+@if (Model != null)
+{
+    <table border="1">
+        <tr>
+            <th>Customer ID</th>
+            <th>Company Name</th>
+            <th>City</th>
+            <th>Country</th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.CustomerID</td>
+                <td>@item.CompanyName</td>
+                <td>@item.City</td>
+                <td>@item.Country</td>
+            </tr>
+        }
+    </table>
+}

@@ -1,0 +1,29 @@
+﻿@model MVC_Application_CC08.Models.Customer
+
+@{
+    ViewBag.Title = "Customer By Order";
+}
+
+<h2>CustomerDetails by Order ID</h2>
+
+@using (Html.BeginForm())
+{
+    <label>Enter Order ID:</label>
+    <input type="number" name="orderId" required />
+    <input type="submit" value="Search" />
+}
+
+@if (ViewBag.Message != null)
+{
+    <p style="color:red">@ViewBag.Message</p>
+}
+
+@if (Model != null)
+{
+    <hr />
+    <p>Customer ID: @Model.CustomerID</p>
+    <p>Company Name: @Model.CompanyName</p>
+    <p>Contact Name: @Model.ContactName</p>
+    <p>City: @Model.City</p>
+    <p>Country: @Model.Country</p>
+}

@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dotnet_training\\MVC\\Assesment\\MVC_Application_CC08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09E467F5-F18A-4217-A2C3-6BAEC4FA66F0}|MVC_Application_CC08\\MVC_Application_CC08.csproj|c:\\dotnet_training\\mvc\\assesment\\mvc_application_cc08\\mvc_application_cc08\\views\\code\\orderid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09E467F5-F18A-4217-A2C3-6BAEC4FA66F0}|MVC_Application_CC08\\MVC_Application_CC08.csproj|solutionrelative:mvc_application_cc08\\views\\code\\orderid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E467F5-F18A-4217-A2C3-6BAEC4FA66F0}|MVC_Application_CC08\\MVC_Application_CC08.csproj|c:\\dotnet_training\\mvc\\assesment\\mvc_application_cc08\\mvc_application_cc08\\views\\code\\country.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09E467F5-F18A-4217-A2C3-6BAEC4FA66F0}|MVC_Application_CC08\\MVC_Application_CC08.csproj|solutionrelative:mvc_application_cc08\\views\\code\\country.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E467F5-F18A-4217-A2C3-6BAEC4FA66F0}|MVC_Application_CC08\\MVC_Application_CC08.csproj|C:\\dotnet_training\\MVC\\Assesment\\MVC_Application_CC08\\mvc_application_cc08\\controllers\\codecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E467F5-F18A-4217-A2C3-6BAEC4FA66F0}|MVC_Application_CC08\\MVC_Application_CC08.csproj|solutionrelative:mvc_application_cc08\\controllers\\codecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E467F5-F18A-4217-A2C3-6BAEC4FA66F0}|MVC_Application_CC08\\MVC_Application_CC08.csproj|C:\\dotnet_training\\MVC\\Assesment\\MVC_Application_CC08\\mvc_application_cc08\\models\\northwindmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E467F5-F18A-4217-A2C3-6BAEC4FA66F0}|MVC_Application_CC08\\MVC_Application_CC08.csproj|solutionrelative:mvc_application_cc08\\models\\northwindmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E467F5-F18A-4217-A2C3-6BAEC4FA66F0}|MVC_Application_CC08\\MVC_Application_CC08.csproj|C:\\dotnet_training\\MVC\\Assesment\\MVC_Application_CC08\\mvc_application_cc08\\models\\northwindmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{09E467F5-F18A-4217-A2C3-6BAEC4FA66F0}|MVC_Application_CC08\\MVC_Application_CC08.csproj|solutionrelative:mvc_application_cc08\\models\\northwindmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderId.cshtml",
+              "DocumentMoniker": "C:\\dotnet_training\\MVC\\Assesment\\MVC_Application_CC08\\MVC_Application_CC08\\Views\\Code\\OrderId.cshtml",
+              "RelativeDocumentMoniker": "MVC_Application_CC08\\Views\\Code\\OrderId.cshtml",
+              "ToolTip": "C:\\dotnet_training\\MVC\\Assesment\\MVC_Application_CC08\\MVC_Application_CC08\\Views\\Code\\OrderId.cshtml",
+              "RelativeToolTip": "MVC_Application_CC08\\Views\\Code\\OrderId.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T04:47:09.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Country.cshtml",
+              "DocumentMoniker": "C:\\dotnet_training\\MVC\\Assesment\\MVC_Application_CC08\\MVC_Application_CC08\\Views\\Code\\Country.cshtml",
+              "RelativeDocumentMoniker": "MVC_Application_CC08\\Views\\Code\\Country.cshtml",
+              "ToolTip": "C:\\dotnet_training\\MVC\\Assesment\\MVC_Application_CC08\\MVC_Application_CC08\\Views\\Code\\Country.cshtml",
+              "RelativeToolTip": "MVC_Application_CC08\\Views\\Code\\Country.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T04:44:29.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NorthwindModel.Context.cs",
+              "DocumentMoniker": "C:\\dotnet_training\\MVC\\Assesment\\MVC_Application_CC08\\MVC_Application_CC08\\Models\\NorthwindModel.Context.cs",
+              "RelativeDocumentMoniker": "MVC_Application_CC08\\Models\\NorthwindModel.Context.cs",
+              "ToolTip": "C:\\dotnet_training\\MVC\\Assesment\\MVC_Application_CC08\\MVC_Application_CC08\\Models\\NorthwindModel.Context.cs",
+              "RelativeToolTip": "MVC_Application_CC08\\Models\\NorthwindModel.Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:29:00.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CodeController.cs",
+              "DocumentMoniker": "C:\\dotnet_training\\MVC\\Assesment\\MVC_Application_CC08\\MVC_Application_CC08\\Controllers\\CodeController.cs",
+              "RelativeDocumentMoniker": "MVC_Application_CC08\\Controllers\\CodeController.cs",
+              "ToolTip": "C:\\dotnet_training\\MVC\\Assesment\\MVC_Application_CC08\\MVC_Application_CC08\\Controllers\\CodeController.cs",
+              "RelativeToolTip": "MVC_Application_CC08\\Controllers\\CodeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:26:34.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NorthwindModel.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\dotnet_training\\MVC\\Assesment\\MVC_Application_CC08\\MVC_Application_CC08\\Models\\NorthwindModel.edmx",
+              "RelativeDocumentMoniker": "MVC_Application_CC08\\Models\\NorthwindModel.edmx",
+              "ToolTip": "C:\\dotnet_training\\MVC\\Assesment\\MVC_Application_CC08\\MVC_Application_CC08\\Models\\NorthwindModel.edmx [Diagram1]",
+              "RelativeToolTip": "MVC_Application_CC08\\Models\\NorthwindModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-01-13T04:24:47.013Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
