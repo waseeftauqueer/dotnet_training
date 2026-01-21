@@ -1,0 +1,7 @@
+create procedure GetCustomersByCountry
+@Country varchar(50)
+as
+begin
+select CustomerID, CompanyName, ContactName, Country
+from Customers where Country = @Country
+end

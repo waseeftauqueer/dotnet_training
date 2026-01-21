@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dotnet_training\\Web API\\Assesment\\Question2\\Question2_Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F140F7-D982-4DCE-8933-8CA799FF8300}|Question2_Client\\Question2_Client.csproj|c:\\dotnet_training\\web api\\assesment\\question2\\question2_client\\question2_client\\views\\order\\displayorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5F140F7-D982-4DCE-8933-8CA799FF8300}|Question2_Client\\Question2_Client.csproj|solutionrelative:question2_client\\views\\order\\displayorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F140F7-D982-4DCE-8933-8CA799FF8300}|Question2_Client\\Question2_Client.csproj|c:\\dotnet_training\\web api\\assesment\\question2\\question2_client\\question2_client\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F140F7-D982-4DCE-8933-8CA799FF8300}|Question2_Client\\Question2_Client.csproj|solutionrelative:question2_client\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F140F7-D982-4DCE-8933-8CA799FF8300}|Question2_Client\\Question2_Client.csproj|c:\\dotnet_training\\web api\\assesment\\question2\\question2_client\\question2_client\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F140F7-D982-4DCE-8933-8CA799FF8300}|Question2_Client\\Question2_Client.csproj|solutionrelative:question2_client\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DisplayOrders.cshtml",
+              "DocumentMoniker": "C:\\dotnet_training\\Web API\\Assesment\\Question2\\Question2_Client\\Question2_Client\\Views\\Order\\DisplayOrders.cshtml",
+              "RelativeDocumentMoniker": "Question2_Client\\Views\\Order\\DisplayOrders.cshtml",
+              "ToolTip": "C:\\dotnet_training\\Web API\\Assesment\\Question2\\Question2_Client\\Question2_Client\\Views\\Order\\DisplayOrders.cshtml",
+              "RelativeToolTip": "Question2_Client\\Views\\Order\\DisplayOrders.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T05:47:26.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\dotnet_training\\Web API\\Assesment\\Question2\\Question2_Client\\Question2_Client\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Question2_Client\\Models\\Order.cs",
+              "ToolTip": "C:\\dotnet_training\\Web API\\Assesment\\Question2\\Question2_Client\\Question2_Client\\Models\\Order.cs",
+              "RelativeToolTip": "Question2_Client\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T05:43:26.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\dotnet_training\\Web API\\Assesment\\Question2\\Question2_Client\\Question2_Client\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Question2_Client\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\dotnet_training\\Web API\\Assesment\\Question2\\Question2_Client\\Question2_Client\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Question2_Client\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T05:42:42.878Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
